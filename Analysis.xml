@@ -3923,7 +3923,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 1:15:57 PM</DateLastModified>
+		<DateLastModified>6/3/2013 1:28:21 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -3934,7 +3934,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 1:15:07 PM</DateLastModified>
+		<DateLastModified>6/3/2013 1:26:52 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -3945,7 +3945,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 1:22:02 PM</DateLastModified>
+		<DateLastModified>6/3/2013 1:31:11 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -3956,7 +3956,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 1:17:31 PM</DateLastModified>
+		<DateLastModified>6/3/2013 1:30:15 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<networktask>
@@ -6235,7 +6235,7 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<CalculatedProbability>0</CalculatedProbability>
 		<Height>21.091144561767578</Height>
 		<Width>75.850250244140625</Width>
-		<XPos>925</XPos>
+		<XPos>903</XPos>
 		<YPos>49</YPos>
 		<BackgroundColor>NamedColor:Plum</BackgroundColor>
 		<TextColor>NamedColor:Black</TextColor>
@@ -7575,8 +7575,8 @@ if(target1Hit) {
 		<Id>13</Id>
 		<SourceFunction_FK>14</SourceFunction_FK>
 		<TargetTask_FK>43</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
+		<XPosition>1127</XPosition>
+		<YPosition>51</YPosition>
 		<PathPointsIn />
 		<PathPointsOut />
 	</nodelink>
@@ -9026,6 +9026,62 @@ return 1;</TacticalExpr>
 		<ConflictFlag1>0</ConflictFlag1>
 		<ConflictFlag2>0</ConflictFlag2>
 	</ripair>
+	<ripair>
+		<Id>28</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>22</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>29</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>25</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>30</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>23</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>31</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>26</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>32</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>24</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>33</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>27</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>34</Id>
+		<Mission_FK>3</Mission_FK>
+		<Resource_FK>21</Resource_FK>
+		<Interface_FK>3</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
 	<settingsop>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -9248,6 +9304,118 @@ return 1;</TacticalExpr>
 		<RIPair_FK>6</RIPair_FK>
 		<NetworkTask_FK>183</NetworkTask_FK>
 		<Mission_FK>1</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>81</Id>
+		<RIPair_FK>11</RIPair_FK>
+		<NetworkTask_FK>170</NetworkTask_FK>
+		<Mission_FK>2</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>82</Id>
+		<RIPair_FK>11</RIPair_FK>
+		<NetworkTask_FK>171</NetworkTask_FK>
+		<Mission_FK>2</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>83</Id>
+		<RIPair_FK>11</RIPair_FK>
+		<NetworkTask_FK>172</NetworkTask_FK>
+		<Mission_FK>2</Mission_FK>
+		<DemandValue>4.4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>84</Id>
+		<RIPair_FK>10</RIPair_FK>
+		<NetworkTask_FK>173</NetworkTask_FK>
+		<Mission_FK>2</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>85</Id>
+		<RIPair_FK>10</RIPair_FK>
+		<NetworkTask_FK>174</NetworkTask_FK>
+		<Mission_FK>2</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>86</Id>
+		<RIPair_FK>27</RIPair_FK>
+		<NetworkTask_FK>191</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>87</Id>
+		<RIPair_FK>27</RIPair_FK>
+		<NetworkTask_FK>192</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>88</Id>
+		<RIPair_FK>27</RIPair_FK>
+		<NetworkTask_FK>193</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>89</Id>
+		<RIPair_FK>23</RIPair_FK>
+		<NetworkTask_FK>194</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>90</Id>
+		<RIPair_FK>27</RIPair_FK>
+		<NetworkTask_FK>194</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>91</Id>
+		<RIPair_FK>22</RIPair_FK>
+		<NetworkTask_FK>195</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>92</Id>
+		<RIPair_FK>23</RIPair_FK>
+		<NetworkTask_FK>196</NetworkTask_FK>
+		<Mission_FK>4</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>93</Id>
+		<RIPair_FK>34</RIPair_FK>
+		<NetworkTask_FK>200</NetworkTask_FK>
+		<Mission_FK>3</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>94</Id>
+		<RIPair_FK>30</RIPair_FK>
+		<NetworkTask_FK>201</NetworkTask_FK>
+		<Mission_FK>3</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>95</Id>
+		<RIPair_FK>34</RIPair_FK>
+		<NetworkTask_FK>201</NetworkTask_FK>
+		<Mission_FK>3</Mission_FK>
+		<DemandValue>4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>96</Id>
+		<RIPair_FK>30</RIPair_FK>
+		<NetworkTask_FK>203</NetworkTask_FK>
+		<Mission_FK>3</Mission_FK>
 		<DemandValue>2.2</DemandValue>
 	</taskdemand>
 	<taskinterface>
@@ -10420,4 +10588,4 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
