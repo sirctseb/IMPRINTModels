@@ -3912,7 +3912,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 2:04:42 PM</DateLastModified>
+		<DateLastModified>6/3/2013 4:46:54 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -4664,8 +4664,8 @@
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production and one sample from a simulation for retrieval
-return 0.05 + 0.029;</DataShapingExpression>
+		<DataShapingExpression>// production plus randomized addition retrieval time
+return 0.05 + AdditionRT(Op1 % 10, Op2 % 10);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5043,8 +5043,8 @@ return 0.05;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production and one sample from a simulation for retrieval
-return 0.05 + 0.089;</DataShapingExpression>
+		<DataShapingExpression>// production plus random addition retrieval
+return 0.05 + AdditionRT((int)(Op1 / 10.0), (int)(Op2 / 10.0));</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5151,8 +5151,8 @@ return 0.05;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production and one sample from simulation for retrieval
-return 0.05 + 0.024;</DataShapingExpression>
+		<DataShapingExpression>// production plus randomized successor retrieval
+return 0.05 + RT(0.1);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5367,8 +5367,8 @@ return 0.05;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production plus one sample from simulation for speech preparation
-return 0.05 + 0.12;</DataShapingExpression>
+		<DataShapingExpression>// production plus random prep time
+return 0.05 + RandTime(0.05);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5421,8 +5421,8 @@ return 0.05 + 0.12;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production and one sample from simulation for full speech output
-return 0.05 + 0.181;</DataShapingExpression>
+		<DataShapingExpression>// production plus random prep time plus articulation time
+return 0.05 + RandTime(0.05) + 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5475,8 +5475,8 @@ return 0.05 + 0.181;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production and one sample from simulation for full speech output
-return 0.05 + 0.181;</DataShapingExpression>
+		<DataShapingExpression>// production plus random prep time plus articulation time
+return 0.05 + RandTime(0.05) + 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5529,8 +5529,8 @@ return 0.05 + 0.181;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// TODO production plus one sample from a simulation for retrieval
-return 0.052;</DataShapingExpression>
+		<DataShapingExpression>// production plus random retrieval time
+return 0.05 + NumberRT(Op2);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5800,8 +5800,8 @@ return 0.15;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production and one sample from a simulation for retrieval
-return 0.05+0.7;</DataShapingExpression>
+		<DataShapingExpression>// production plus random retrieval time
+return 0.05 + NumberRT(Op1);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5854,8 +5854,8 @@ return 0.05+0.7;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production and one sample from a simulation for retrieval
-return 0.05 + 0.029;</DataShapingExpression>
+		<DataShapingExpression>// production plus randomized addition retrieval
+return 0.05 + AdditionRT(Op1 % 10, Op2 % 10);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -9108,7 +9108,7 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
-		<NumRuns>1</NumRuns>
+		<NumRuns>1000</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
 		<UseWorkloadStrategies>false</UseWorkloadStrategies>
@@ -10299,6 +10299,104 @@ return 1;</TacticalExpr>
 		<Operator_FK>0</Operator_FK>
 		<IsPrimary>true</IsPrimary>
 	</taskoperator>
+	<usermacro>
+		<Id>0</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>RT</Name>
+		<Code>return baseLevel + Distributions.Logistic(0, Math.Sqrt(ans*ans*Math.PI*Math.PI/3));</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description>Produce a random retrieval time from a base level</Description>
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
+	<usermacro>
+		<Id>1</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>NumberRT</Name>
+		<Code>return RT(number &gt; 12 ? 0.5 : 0.015);</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description>Get a random retrieval time for a number chunk</Description>
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
+	<usermacro>
+		<Id>2</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>AdditionRT</Name>
+		<Code>return op1 + op2 &gt; 9 ? RT(0.1) : RT(0.15);</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description>Get a random retrieval time for an addition chunk</Description>
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
+	<usermacro>
+		<Id>3</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>RandTime</Name>
+		<Code>return (time / 3.0) * (3 - 1 + Model.Random(0,2.0));</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description />
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
+	<usermacroparameter>
+		<Id>0</Id>
+		<UserMacro_FK>0</UserMacro_FK>
+		<Name>baseLevel</Name>
+		<Type>3</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>1</Id>
+		<UserMacro_FK>1</UserMacro_FK>
+		<Name>number</Name>
+		<Type>4</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>2</Id>
+		<UserMacro_FK>2</UserMacro_FK>
+		<Name>op1</Name>
+		<Type>4</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>3</Id>
+		<UserMacro_FK>2</UserMacro_FK>
+		<Name>op2</Name>
+		<Type>4</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>1</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>4</Id>
+		<UserMacro_FK>3</UserMacro_FK>
+		<Name>time</Name>
+		<Type>3</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
 	<variable>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -10611,4 +10709,16 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                  
+	<variable>
+		<Id>29</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>ans</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.05</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
