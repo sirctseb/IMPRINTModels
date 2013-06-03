@@ -3912,7 +3912,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 1:09:35 PM</DateLastModified>
+		<DateLastModified>6/3/2013 2:03:24 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -4606,15 +4606,15 @@
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>2</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
 		<DataShapingExpression>return 0.0;</DataShapingExpression>
 		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
+		<StopTime>0.05</StopTime>
+		<TaskTime>0.05</TaskTime>
 		<AccuracyInputType>0</AccuracyInputType>
 		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
 		<AccuracyDS1>0</AccuracyDS1>
@@ -4668,12 +4668,13 @@
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyInputType>1</AccuracyInputType>
 		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
 		<AccuracyDS1>0</AccuracyDS1>
 		<AccuracyDS2>0</AccuracyDS2>
 		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
+		<AccuracyExpression>// TODO production and one sample from a simulation for retrieval
+return 0.05 + 0.029;</AccuracyExpression>
 		<Priority>3</Priority>
 		<InterruptStrategy>2</InterruptStrategy>
 		<ReleaseCond>return true;</ReleaseCond>
@@ -4712,12 +4713,13 @@
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -4766,12 +4768,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -4819,12 +4822,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -4872,12 +4876,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -4925,12 +4930,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -4978,12 +4984,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5031,12 +5038,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// TODO production and one sample from a simulation for retrieval
+return 0.05 + 0.089;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5084,12 +5092,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5137,12 +5146,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// TODO production and one sample from simulation for retrieval
+return 0.05 + 0.024;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5190,15 +5200,16 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production plus +vis
+return 0.015;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
+		<TaskTime>0.15</TaskTime>
 		<AccuracyInputType>0</AccuracyInputType>
 		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
 		<AccuracyDS1>0</AccuracyDS1>
@@ -5243,12 +5254,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5296,12 +5308,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5349,12 +5362,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// TODO production plus one sample from simulation for speech preparation
+return 0.05 + 0.12;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5402,12 +5416,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// TODO production and one sample from simulation for full speech output
+return 0.05 + 0.181;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5455,12 +5470,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// TODO production and one sample from simulation for full speech output
+return 0.05 + 0.181;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5508,12 +5524,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// TODO production plus one sample from a simulation for retrieval
+return 0.052;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5561,12 +5578,13 @@ goalCarry = ((Op1 % 10) + (Op2 % 10) &gt;= 10) ? 1 : 0;</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5615,12 +5633,13 @@ goalSecondTens = (int)(Op2 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5668,12 +5687,13 @@ goalSecondTens = (int)(Op2 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5721,12 +5741,13 @@ goalSecondTens = (int)(Op2 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production and +vis
+return 0.15;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5774,12 +5795,13 @@ goalSecondTens = (int)(Op2 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production and one sample from a simulation for retrieval
+return 0.05+0.7;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -5827,12 +5849,13 @@ goalSecondTens = (int)(Op2 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production and one sample from a simulation for retrieval
+return 0.05 + 0.029;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -10588,4 +10611,4 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+</IMPRINTProDB>                                                                                                                                                                                                                                    
