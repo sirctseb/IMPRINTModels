@@ -3952,7 +3952,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/4/2013 10:21:11 AM</DateLastModified>
+		<DateLastModified>6/4/2013 5:25:30 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6036,12 +6036,13 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6064,7 +6065,7 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<ProbNoEffect>100</ProbNoEffect>
 		<ProbChangeOperator>0</ProbChangeOperator>
 		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>2</BranchingDecisionType>
+		<BranchingDecisionType>0</BranchingDecisionType>
 		<CalculatedAccuracy>0</CalculatedAccuracy>
 		<CalculatedTime>0</CalculatedTime>
 		<CalculatedProbability>0</CalculatedProbability>
@@ -6089,12 +6090,13 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6142,12 +6144,13 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production (vis time in harvest-vis)
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6196,12 +6199,13 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production plus prep plus approximated movement
+return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6250,12 +6254,13 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// zero because this puts the click prep time during the movement
+return 0.0;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6303,16 +6308,17 @@ goalFirstTens = (int)(Op1 / 10);</EndEffect>
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production plus prep plus exec
+return 0.05 + 0.1;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyInputType>1</AccuracyInputType>
 		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
 		<AccuracyDS1>0</AccuracyDS1>
 		<AccuracyDS2>0</AccuracyDS2>
@@ -6337,7 +6343,7 @@ if(target1Hit) {
 		<ProbNoEffect>100</ProbNoEffect>
 		<ProbChangeOperator>0</ProbChangeOperator>
 		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
+		<BranchingDecisionType>2</BranchingDecisionType>
 		<CalculatedAccuracy>0</CalculatedAccuracy>
 		<CalculatedTime>0</CalculatedTime>
 		<CalculatedProbability>0</CalculatedProbability>
@@ -6362,12 +6368,12 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>return 0.05 + RandTime(0.085);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -8073,7 +8079,7 @@ if(target1Hit) {
 		<TargetTask_FK>171</TargetTask_FK>
 		<Probability>0</Probability>
 		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
-		<MultipleExpr>return target1Hit &amp;&amp; target2Hit;</MultipleExpr>
+		<MultipleExpr>return true;</MultipleExpr>
 		<PathPoints />
 	</path>
 	<path>
@@ -8127,16 +8133,6 @@ if(target1Hit) {
 		<PathPoints />
 	</path>
 	<path>
-		<Id>229</Id>
-		<Mission_FK>2</Mission_FK>
-		<SourceTask_FK>175</SourceTask_FK>
-		<TargetTask_FK>170</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints>1207.27 59.54557,1217.27 59.54557,1217.27 31,155 31,155 59.54557,165 59.54557</PathPoints>
-	</path>
-	<path>
 		<Id>230</Id>
 		<Mission_FK>2</Mission_FK>
 		<SourceTask_FK>168</SourceTask_FK>
@@ -8144,16 +8140,6 @@ if(target1Hit) {
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>232</Id>
-		<Mission_FK>2</Mission_FK>
-		<SourceTask_FK>170</SourceTask_FK>
-		<TargetTask_FK>169</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
-		<MultipleExpr>return !(target1Hit &amp;&amp; target2Hit);</MultipleExpr>
 		<PathPoints />
 	</path>
 	<path>
@@ -8551,6 +8537,26 @@ return 1;</TacticalExpr>
 		<TargetTask_FK>206</TargetTask_FK>
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>288</Id>
+		<Mission_FK>2</Mission_FK>
+		<SourceTask_FK>175</SourceTask_FK>
+		<TargetTask_FK>169</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return target2Hit;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>289</Id>
+		<Mission_FK>2</Mission_FK>
+		<SourceTask_FK>175</SourceTask_FK>
+		<TargetTask_FK>170</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return !target2Hit;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
 		<PathPoints />
 	</path>
@@ -9242,7 +9248,7 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>2</Id>
 		<Mission_FK>2</Mission_FK>
-		<NumRuns>1</NumRuns>
+		<NumRuns>1000</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
 		<UseWorkloadStrategies>false</UseWorkloadStrategies>
@@ -10461,6 +10467,18 @@ return 1;</TacticalExpr>
 		<IsArray>false</IsArray>
 		<ArrayDimensions />
 	</usermacro>
+	<usermacro>
+		<Id>5</Id>
+		<Mission_FK>2</Mission_FK>
+		<Name>RandTime</Name>
+		<Code>return (time / 3.0) * (3 - 1 + Model.Random(0,2.0));</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description />
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
 	<usermacroparameter>
 		<Id>0</Id>
 		<UserMacro_FK>0</UserMacro_FK>
@@ -10515,6 +10533,16 @@ return 1;</TacticalExpr>
 		<Id>5</Id>
 		<UserMacro_FK>4</UserMacro_FK>
 		<Name>baseLevel</Name>
+		<Type>3</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>6</Id>
+		<UserMacro_FK>5</UserMacro_FK>
+		<Name>time</Name>
 		<Type>3</Type>
 		<ArbitraryType />
 		<IsArray>false</IsArray>
@@ -10965,4 +10993,4 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
