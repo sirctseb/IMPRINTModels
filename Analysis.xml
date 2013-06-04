@@ -3624,6 +3624,24 @@
 		<Taxon_FK>0</Taxon_FK>
 		<Weight>0</Weight>
 	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>618</Id>
+		<NetworkTask_FK>206</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>619</Id>
+		<NetworkTask_FK>206</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>620</Id>
+		<NetworkTask_FK>206</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
 	<function>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -3945,7 +3963,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/4/2013 10:21:11 AM</DateLastModified>
+		<DateLastModified>6/4/2013 5:10:34 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -4366,7 +4384,7 @@ complete = true;</BeginningEffect>
 		<Priority>3</Priority>
 		<InterruptStrategy>2</InterruptStrategy>
 		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
+		<BeginningEffect>Model.Abort("ID", "6");</BeginningEffect>
 		<EndEffect />
 		<ProbDegradeTask>0</ProbDegradeTask>
 		<DegradeTime>0</DegradeTime>
@@ -7211,12 +7229,13 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -7264,12 +7283,12 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>return 0.05 + 0.20 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -7317,12 +7336,13 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production plus retrieval
+return 0.05 + RT(0.1);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -7370,12 +7390,12 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>return 0.05 + 0.15 + 0.1;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -7520,6 +7540,59 @@ if(target1Hit) {
 		<Width>105.45311737060547</Width>
 		<XPos>763</XPos>
 		<YPos>53</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>206</Id>
+		<Function_FK>3</Function_FK>
+		<Name>CutOff</Name>
+		<Type>1</Type>
+		<MSSharpID>6</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>2</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>6</StopTime>
+		<TaskTime>6</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect>Model.Halt();</EndEffect>
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>174</XPos>
+		<YPos>113</YPos>
 		<BackgroundColor>NamedColor:Plum</BackgroundColor>
 		<TextColor>NamedColor:Black</TextColor>
 		<Shape>8</Shape>
@@ -8310,12 +8383,12 @@ return 1;</TacticalExpr>
 		<Probability>0</Probability>
 		<TacticalExpr>// TODO need to make sure this is only evaluated once per decision because it sets foundFriend
 // if found friend is true, we had already seen the friend, so this one will be enemy
-if(foundFriend) return 2;
+if(friendFound) return 2;
 // if not found friend, this has 1/n chance of being friend, where n is total number of targets left
 if(Model.Random(0, target1Hit ? 2 : 3) &gt; 1) {
 	return 2;
 }
-foundFriend = true;
+friendFound = true;
 return 0;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
 		<PathPoints />
@@ -8329,7 +8402,7 @@ return 0;</TacticalExpr>
 		<TacticalExpr>// return 1 so that this is selected only if click-mouse is not
 return 1;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
+		<PathPoints>720.5 58.54557,730.5 58.54557,730.5 85,188 85,188 58.54557,198 58.54557</PathPoints>
 	</path>
 	<path>
 		<Id>266</Id>
@@ -8339,7 +8412,7 @@ return 1;</TacticalExpr>
 		<Probability>0</Probability>
 		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
 		<MultipleExpr>return !(target1Hit &amp;&amp; target2Hit);</MultipleExpr>
-		<PathPoints />
+		<PathPoints>901.2695 58.54557,911.2695 58.54557,911.2695 110,188 110,188 58.54557,198 58.54557</PathPoints>
 	</path>
 	<path>
 		<Id>267</Id>
@@ -8469,6 +8542,16 @@ return 1;</TacticalExpr>
 		<Probability>0</Probability>
 		<TacticalExpr>return target2Hit;</TacticalExpr>
 		<MultipleExpr>return target2Hit;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>287</Id>
+		<Mission_FK>3</Mission_FK>
+		<SourceTask_FK>42</SourceTask_FK>
+		<TargetTask_FK>206</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
 		<PathPoints />
 	</path>
 	<resource>
@@ -9178,7 +9261,7 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>3</Id>
 		<Mission_FK>3</Mission_FK>
-		<NumRuns>1</NumRuns>
+		<NumRuns>1000</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
 		<UseWorkloadStrategies>false</UseWorkloadStrategies>
@@ -9843,6 +9926,12 @@ return 1;</TacticalExpr>
 		<NetworkTask_FK>205</NetworkTask_FK>
 		<Interface_FK>0</Interface_FK>
 	</taskinterface>
+	<taskinterface>
+		<Id>206</Id>
+		<Mission_FK>3</Mission_FK>
+		<NetworkTask_FK>206</NetworkTask_FK>
+		<Interface_FK>3</Interface_FK>
+	</taskinterface>
 	<taskoperator>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -10305,6 +10394,13 @@ return 1;</TacticalExpr>
 		<Operator_FK>0</Operator_FK>
 		<IsPrimary>true</IsPrimary>
 	</taskoperator>
+	<taskoperator>
+		<Id>206</Id>
+		<Mission_FK>3</Mission_FK>
+		<NetworkTask_FK>206</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
 	<usermacro>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -10353,6 +10449,18 @@ return 1;</TacticalExpr>
 		<IsArray>false</IsArray>
 		<ArrayDimensions />
 	</usermacro>
+	<usermacro>
+		<Id>4</Id>
+		<Mission_FK>3</Mission_FK>
+		<Name>RT</Name>
+		<Code>return lf * Math.Exp(-le * (baseLevel + Distributions.Logistic(0, Math.Sqrt(ans*ans*Math.PI*Math.PI/3))));</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description>Produce a random retrieval time from a base level</Description>
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
 	<usermacroparameter>
 		<Id>0</Id>
 		<UserMacro_FK>0</UserMacro_FK>
@@ -10397,6 +10505,16 @@ return 1;</TacticalExpr>
 		<Id>4</Id>
 		<UserMacro_FK>3</UserMacro_FK>
 		<Name>time</Name>
+		<Type>3</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>5</Id>
+		<UserMacro_FK>4</UserMacro_FK>
+		<Name>baseLevel</Name>
 		<Type>3</Type>
 		<ArbitraryType />
 		<IsArray>false</IsArray>
@@ -10811,4 +10929,40 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	<variable>
+		<Id>37</Id>
+		<Mission_FK>3</Mission_FK>
+		<Name>le</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>10</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>38</Id>
+		<Mission_FK>3</Mission_FK>
+		<Name>lf</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.2</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>39</Id>
+		<Mission_FK>3</Mission_FK>
+		<Name>ans</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.05</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
