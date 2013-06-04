@@ -3948,7 +3948,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/4/2013 12:36:31 PM</DateLastModified>
+		<DateLastModified>6/4/2013 1:57:25 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -4024,10 +4024,13 @@
 		<Priority>3</Priority>
 		<InterruptStrategy>2</InterruptStrategy>
 		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect>//Op1 = 7;
-//Op2 = 12;
-Op1 = Model.RandomInteger(1,12);
-Op2 = Model.RandomInteger(1,12);</BeginningEffect>
+		<BeginningEffect>if(oprange == 0) {
+	Op1 = Model.RandomInteger(1,12);
+	Op2 = Model.RandomInteger(1,12);
+} else {
+	Op1 = Model.RandomInteger(13,24);
+	Op2 = Model.RandomInteger(13,24);
+}</BeginningEffect>
 		<EndEffect />
 		<ProbDegradeTask>0</ProbDegradeTask>
 		<DegradeTime>0</DegradeTime>
@@ -5854,8 +5857,7 @@ return 0.05 + NumberRT(Op1);</DataShapingExpression>
 		<AccuracyExpression>return true;</AccuracyExpression>
 		<Priority>3</Priority>
 		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>if(goalSecondOnes == -1) Model.PrintOutput("waiting on second ones");
-return goalSecondOnes != -1 &amp;&amp; firstAttended;</ReleaseCond>
+		<ReleaseCond>return goalSecondOnes != -1 &amp;&amp; firstAttended;</ReleaseCond>
 		<BeginningEffect />
 		<EndEffect />
 		<ProbDegradeTask>0</ProbDegradeTask>
@@ -9288,7 +9290,7 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
-		<NumRuns>100</NumRuns>
+		<NumRuns>1000</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
 		<UseWorkloadStrategies>false</UseWorkloadStrategies>
@@ -10999,4 +11001,16 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+	<variable>
+		<Id>36</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>oprange</Name>
+		<Type>4</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
