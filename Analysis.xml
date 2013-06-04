@@ -3912,7 +3912,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/3/2013 4:46:54 PM</DateLastModified>
+		<DateLastModified>6/3/2013 5:00:10 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -3988,7 +3988,8 @@
 		<Priority>3</Priority>
 		<InterruptStrategy>2</InterruptStrategy>
 		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
+		<BeginningEffect>Op1 = Model.RandomInteger(1,12);
+Op2 = Model.RandomInteger(1,12);</BeginningEffect>
 		<EndEffect />
 		<ProbDegradeTask>0</ProbDegradeTask>
 		<DegradeTime>0</DegradeTime>
@@ -9108,7 +9109,7 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
-		<NumRuns>1000</NumRuns>
+		<NumRuns>100</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
 		<UseWorkloadStrategies>false</UseWorkloadStrategies>
@@ -10303,7 +10304,7 @@ return 1;</TacticalExpr>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
 		<Name>RT</Name>
-		<Code>return baseLevel + Distributions.Logistic(0, Math.Sqrt(ans*ans*Math.PI*Math.PI/3));</Code>
+		<Code>return lf * Math.Exp(-le * (baseLevel + Distributions.Logistic(0, Math.Sqrt(ans*ans*Math.PI*Math.PI/3))));</Code>
 		<ReturnType>3</ReturnType>
 		<ArbitraryType />
 		<Description>Produce a random retrieval time from a base level</Description>
@@ -10721,4 +10722,28 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+	<variable>
+		<Id>30</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>lf</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.2</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>31</Id>
+		<Mission_FK>0</Mission_FK>
+		<Name>le</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>10</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
