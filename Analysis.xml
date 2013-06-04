@@ -3959,7 +3959,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>6/4/2013 10:21:11 AM</DateLastModified>
+		<DateLastModified>6/4/2013 4:58:13 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6539,12 +6539,13 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6592,12 +6593,13 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6645,12 +6647,13 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -6698,14 +6701,15 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
+		<DataShaping1>0.2349668</DataShaping1>
+		<DataShaping2>0.0818</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production plus prepare plus approximated movement time
+return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
+		<StopTime>0.2349668</StopTime>
 		<TaskTime>0</TaskTime>
 		<AccuracyInputType>0</AccuracyInputType>
 		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
@@ -6756,12 +6760,13 @@ if(target1Hit) {
 		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
 		<Criterion>0</Criterion>
 		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
+		<DataShapingInputType>1</DataShapingInputType>
 		<Distribution_FK>14</Distribution_FK>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<DataShapingExpression>// production plus prep plus exec
+return 0.05 + 0.15 + 0.1;</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -9309,7 +9314,7 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>1</Id>
 		<Mission_FK>1</Mission_FK>
-		<NumRuns>1</NumRuns>
+		<NumRuns>1000</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
 		<UseWorkloadStrategies>false</UseWorkloadStrategies>
@@ -11013,4 +11018,4 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
