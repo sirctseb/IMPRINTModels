@@ -3751,114 +3751,6 @@
 		<Weight>0</Weight>
 	</appliedtaxonop>
 	<appliedtaxonop>
-		<Id>762</Id>
-		<NetworkTask_FK>254</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>763</Id>
-		<NetworkTask_FK>254</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>764</Id>
-		<NetworkTask_FK>254</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>765</Id>
-		<NetworkTask_FK>255</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>766</Id>
-		<NetworkTask_FK>255</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>767</Id>
-		<NetworkTask_FK>255</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>768</Id>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>769</Id>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>770</Id>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>771</Id>
-		<NetworkTask_FK>257</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>772</Id>
-		<NetworkTask_FK>257</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>773</Id>
-		<NetworkTask_FK>257</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>774</Id>
-		<NetworkTask_FK>258</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>775</Id>
-		<NetworkTask_FK>258</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>776</Id>
-		<NetworkTask_FK>258</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>777</Id>
-		<NetworkTask_FK>259</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>778</Id>
-		<NetworkTask_FK>259</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>779</Id>
-		<NetworkTask_FK>259</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
 		<Id>780</Id>
 		<NetworkTask_FK>260</NetworkTask_FK>
 		<Taxon_FK>0</Taxon_FK>
@@ -3873,150 +3765,6 @@
 	<appliedtaxonop>
 		<Id>782</Id>
 		<NetworkTask_FK>260</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>783</Id>
-		<NetworkTask_FK>261</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>784</Id>
-		<NetworkTask_FK>261</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>785</Id>
-		<NetworkTask_FK>261</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>786</Id>
-		<NetworkTask_FK>262</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>787</Id>
-		<NetworkTask_FK>262</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>788</Id>
-		<NetworkTask_FK>262</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>789</Id>
-		<NetworkTask_FK>263</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>790</Id>
-		<NetworkTask_FK>263</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>791</Id>
-		<NetworkTask_FK>263</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>792</Id>
-		<NetworkTask_FK>264</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>793</Id>
-		<NetworkTask_FK>264</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>794</Id>
-		<NetworkTask_FK>264</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>795</Id>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>796</Id>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>797</Id>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>798</Id>
-		<NetworkTask_FK>266</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>799</Id>
-		<NetworkTask_FK>266</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>800</Id>
-		<NetworkTask_FK>266</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>801</Id>
-		<NetworkTask_FK>267</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>802</Id>
-		<NetworkTask_FK>267</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>803</Id>
-		<NetworkTask_FK>267</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>804</Id>
-		<NetworkTask_FK>268</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>805</Id>
-		<NetworkTask_FK>268</NetworkTask_FK>
-		<Taxon_FK>0</Taxon_FK>
-		<Weight>0</Weight>
-	</appliedtaxonop>
-	<appliedtaxonop>
-		<Id>806</Id>
-		<NetworkTask_FK>268</NetworkTask_FK>
 		<Taxon_FK>0</Taxon_FK>
 		<Weight>0</Weight>
 	</appliedtaxonop>
@@ -5424,6 +5172,618 @@
 		<Taxon_FK>0</Taxon_FK>
 		<Weight>0</Weight>
 	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1263</Id>
+		<NetworkTask_FK>421</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1264</Id>
+		<NetworkTask_FK>421</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1265</Id>
+		<NetworkTask_FK>421</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1266</Id>
+		<NetworkTask_FK>422</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1267</Id>
+		<NetworkTask_FK>422</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1268</Id>
+		<NetworkTask_FK>422</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1269</Id>
+		<NetworkTask_FK>423</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1270</Id>
+		<NetworkTask_FK>423</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1271</Id>
+		<NetworkTask_FK>423</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1272</Id>
+		<NetworkTask_FK>424</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1273</Id>
+		<NetworkTask_FK>424</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1274</Id>
+		<NetworkTask_FK>424</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1275</Id>
+		<NetworkTask_FK>425</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1276</Id>
+		<NetworkTask_FK>425</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1277</Id>
+		<NetworkTask_FK>425</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1278</Id>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1279</Id>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1280</Id>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1281</Id>
+		<NetworkTask_FK>427</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1282</Id>
+		<NetworkTask_FK>427</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1283</Id>
+		<NetworkTask_FK>427</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1284</Id>
+		<NetworkTask_FK>428</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1285</Id>
+		<NetworkTask_FK>428</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1286</Id>
+		<NetworkTask_FK>428</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1287</Id>
+		<NetworkTask_FK>429</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1288</Id>
+		<NetworkTask_FK>429</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1289</Id>
+		<NetworkTask_FK>429</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1299</Id>
+		<NetworkTask_FK>433</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1300</Id>
+		<NetworkTask_FK>433</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1301</Id>
+		<NetworkTask_FK>433</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1302</Id>
+		<NetworkTask_FK>434</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1303</Id>
+		<NetworkTask_FK>434</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1304</Id>
+		<NetworkTask_FK>434</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1305</Id>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1306</Id>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1307</Id>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1308</Id>
+		<NetworkTask_FK>436</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1309</Id>
+		<NetworkTask_FK>436</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1310</Id>
+		<NetworkTask_FK>436</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1311</Id>
+		<NetworkTask_FK>437</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1312</Id>
+		<NetworkTask_FK>437</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1313</Id>
+		<NetworkTask_FK>437</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1314</Id>
+		<NetworkTask_FK>438</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1315</Id>
+		<NetworkTask_FK>438</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1316</Id>
+		<NetworkTask_FK>438</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1317</Id>
+		<NetworkTask_FK>439</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1318</Id>
+		<NetworkTask_FK>439</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1319</Id>
+		<NetworkTask_FK>439</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1320</Id>
+		<NetworkTask_FK>440</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1321</Id>
+		<NetworkTask_FK>440</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1322</Id>
+		<NetworkTask_FK>440</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1323</Id>
+		<NetworkTask_FK>441</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1324</Id>
+		<NetworkTask_FK>441</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1325</Id>
+		<NetworkTask_FK>441</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1326</Id>
+		<NetworkTask_FK>442</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1327</Id>
+		<NetworkTask_FK>442</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1328</Id>
+		<NetworkTask_FK>442</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1329</Id>
+		<NetworkTask_FK>443</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1330</Id>
+		<NetworkTask_FK>443</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1331</Id>
+		<NetworkTask_FK>443</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1332</Id>
+		<NetworkTask_FK>444</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1333</Id>
+		<NetworkTask_FK>444</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1334</Id>
+		<NetworkTask_FK>444</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1335</Id>
+		<NetworkTask_FK>445</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1336</Id>
+		<NetworkTask_FK>445</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1337</Id>
+		<NetworkTask_FK>445</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1338</Id>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1339</Id>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1340</Id>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1341</Id>
+		<NetworkTask_FK>447</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1342</Id>
+		<NetworkTask_FK>447</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1343</Id>
+		<NetworkTask_FK>447</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1344</Id>
+		<NetworkTask_FK>448</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1345</Id>
+		<NetworkTask_FK>448</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1346</Id>
+		<NetworkTask_FK>448</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1347</Id>
+		<NetworkTask_FK>449</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1348</Id>
+		<NetworkTask_FK>449</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1349</Id>
+		<NetworkTask_FK>449</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1350</Id>
+		<NetworkTask_FK>450</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1351</Id>
+		<NetworkTask_FK>450</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1352</Id>
+		<NetworkTask_FK>450</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1353</Id>
+		<NetworkTask_FK>451</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1354</Id>
+		<NetworkTask_FK>451</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1355</Id>
+		<NetworkTask_FK>451</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1356</Id>
+		<NetworkTask_FK>452</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1357</Id>
+		<NetworkTask_FK>452</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1358</Id>
+		<NetworkTask_FK>452</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1359</Id>
+		<NetworkTask_FK>453</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1360</Id>
+		<NetworkTask_FK>453</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1361</Id>
+		<NetworkTask_FK>453</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1362</Id>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1363</Id>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1364</Id>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1365</Id>
+		<NetworkTask_FK>455</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1366</Id>
+		<NetworkTask_FK>455</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1367</Id>
+		<NetworkTask_FK>455</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1368</Id>
+		<NetworkTask_FK>456</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1369</Id>
+		<NetworkTask_FK>456</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1370</Id>
+		<NetworkTask_FK>456</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1371</Id>
+		<NetworkTask_FK>457</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1372</Id>
+		<NetworkTask_FK>457</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1373</Id>
+		<NetworkTask_FK>457</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
 	<function>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -5700,56 +6060,6 @@
 		<SizeType>1</SizeType>
 	</function>
 	<function>
-		<Id>19</Id>
-		<ParentFunction_FK>15</ParentFunction_FK>
-		<MSSharpID>7</MSSharpID>
-		<Name>Hard Slow Main</Name>
-		<TimeRequirement>0</TimeRequirement>
-		<Scheduled>false</Scheduled>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<Criterion>0</Criterion>
-		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
-		<GoalOriented>false</GoalOriented>
-		<GoalPriority>0</GoalPriority>
-		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
-		<GoalDescription />
-		<MissionRunning>1</MissionRunning>
-		<Height>21.091144561767578</Height>
-		<Width>82.174468994140625</Width>
-		<XPos>425</XPos>
-		<YPos>322</YPos>
-		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>0</Shape>
-		<SizeType>1</SizeType>
-	</function>
-	<function>
-		<Id>20</Id>
-		<ParentFunction_FK>15</ParentFunction_FK>
-		<MSSharpID>9</MSSharpID>
-		<Name>Hard Fast Main</Name>
-		<TimeRequirement>0</TimeRequirement>
-		<Scheduled>false</Scheduled>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<Criterion>0</Criterion>
-		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
-		<GoalOriented>false</GoalOriented>
-		<GoalPriority>0</GoalPriority>
-		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
-		<GoalDescription />
-		<MissionRunning>1</MissionRunning>
-		<Height>21.091144561767578</Height>
-		<Width>82.174468994140625</Width>
-		<XPos>422</XPos>
-		<YPos>402</YPos>
-		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>0</Shape>
-		<SizeType>1</SizeType>
-	</function>
-	<function>
 		<Id>21</Id>
 		<Mission_FK>6</Mission_FK>
 		<MSSharpID>Root</MSSharpID>
@@ -5974,6 +6284,156 @@
 		<Shape>0</Shape>
 		<SizeType>1</SizeType>
 	</function>
+	<function>
+		<Id>38</Id>
+		<Mission_FK>12</Mission_FK>
+		<MSSharpID>Root</MSSharpID>
+		<Name>Network</Name>
+		<TimeRequirement>0</TimeRequirement>
+		<Scheduled>false</Scheduled>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<Criterion>0</Criterion>
+		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
+		<GoalOriented>false</GoalOriented>
+		<GoalPriority>0</GoalPriority>
+		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
+		<GoalDescription />
+		<MissionRunning>1</MissionRunning>
+		<Height>0</Height>
+		<Width>0</Width>
+		<XPos>-1</XPos>
+		<YPos>-1</YPos>
+		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>0</Shape>
+		<SizeType>1</SizeType>
+	</function>
+	<function>
+		<Id>39</Id>
+		<ParentFunction_FK>38</ParentFunction_FK>
+		<MSSharpID>5</MSSharpID>
+		<Name>Hard Slow Main</Name>
+		<TimeRequirement>0</TimeRequirement>
+		<Scheduled>false</Scheduled>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<Criterion>0</Criterion>
+		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
+		<GoalOriented>false</GoalOriented>
+		<GoalPriority>0</GoalPriority>
+		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
+		<GoalDescription />
+		<MissionRunning>1</MissionRunning>
+		<Height>21.091144561767578</Height>
+		<Width>82.174468994140625</Width>
+		<XPos>180</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>0</Shape>
+		<SizeType>1</SizeType>
+	</function>
+	<function>
+		<Id>41</Id>
+		<ParentFunction_FK>15</ParentFunction_FK>
+		<MSSharpID>14</MSSharpID>
+		<Name>Hard Slow Main</Name>
+		<TimeRequirement>0</TimeRequirement>
+		<Scheduled>false</Scheduled>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<Criterion>0</Criterion>
+		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
+		<GoalOriented>false</GoalOriented>
+		<GoalPriority>0</GoalPriority>
+		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
+		<GoalDescription />
+		<MissionRunning>1</MissionRunning>
+		<Height>21.091144561767578</Height>
+		<Width>82.174468994140625</Width>
+		<XPos>430</XPos>
+		<YPos>328</YPos>
+		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>0</Shape>
+		<SizeType>1</SizeType>
+	</function>
+	<function>
+		<Id>42</Id>
+		<Mission_FK>13</Mission_FK>
+		<MSSharpID>Root</MSSharpID>
+		<Name>Network</Name>
+		<TimeRequirement>0</TimeRequirement>
+		<Scheduled>false</Scheduled>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<Criterion>0</Criterion>
+		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
+		<GoalOriented>false</GoalOriented>
+		<GoalPriority>0</GoalPriority>
+		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
+		<GoalDescription />
+		<MissionRunning>1</MissionRunning>
+		<Height>0</Height>
+		<Width>0</Width>
+		<XPos>-1</XPos>
+		<YPos>-1</YPos>
+		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>0</Shape>
+		<SizeType>1</SizeType>
+	</function>
+	<function>
+		<Id>43</Id>
+		<ParentFunction_FK>42</ParentFunction_FK>
+		<MSSharpID>7</MSSharpID>
+		<Name>Hard Fast Main</Name>
+		<TimeRequirement>0</TimeRequirement>
+		<Scheduled>false</Scheduled>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<Criterion>0</Criterion>
+		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
+		<GoalOriented>false</GoalOriented>
+		<GoalPriority>0</GoalPriority>
+		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
+		<GoalDescription />
+		<MissionRunning>1</MissionRunning>
+		<Height>21.091144561767578</Height>
+		<Width>82.174468994140625</Width>
+		<XPos>184</XPos>
+		<YPos>52</YPos>
+		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>0</Shape>
+		<SizeType>1</SizeType>
+	</function>
+	<function>
+		<Id>44</Id>
+		<ParentFunction_FK>15</ParentFunction_FK>
+		<MSSharpID>15</MSSharpID>
+		<Name>Hard Fast Main</Name>
+		<TimeRequirement>0</TimeRequirement>
+		<Scheduled>false</Scheduled>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<Criterion>0</Criterion>
+		<WorkloadManagementSuspended>false</WorkloadManagementSuspended>
+		<GoalOriented>false</GoalOriented>
+		<GoalPriority>0</GoalPriority>
+		<GoalInitiatingCondition>return false;</GoalInitiatingCondition>
+		<GoalDescription />
+		<MissionRunning>1</MissionRunning>
+		<Height>21.091144561767578</Height>
+		<Width>82.174468994140625</Width>
+		<XPos>427</XPos>
+		<YPos>397</YPos>
+		<BackgroundColor>NamedColor:LightGray</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>0</Shape>
+		<SizeType>1</SizeType>
+	</function>
 	<interface>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -6025,6 +6485,18 @@
 	<interface>
 		<Id>10</Id>
 		<Mission_FK>10</Mission_FK>
+		<InterfaceCode_FK>1</InterfaceCode_FK>
+		<Name>CrewStation</Name>
+	</interface>
+	<interface>
+		<Id>12</Id>
+		<Mission_FK>12</Mission_FK>
+		<InterfaceCode_FK>1</InterfaceCode_FK>
+		<Name>CrewStation</Name>
+	</interface>
+	<interface>
+		<Id>13</Id>
+		<Mission_FK>13</Mission_FK>
 		<InterfaceCode_FK>1</InterfaceCode_FK>
 		<Name>CrewStation</Name>
 	</interface>
@@ -6091,7 +6563,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/18/2013 5:30:46 PM</DateLastModified>
+		<DateLastModified>7/18/2013 5:42:09 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6125,6 +6597,28 @@
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
 		<DateLastModified>7/18/2013 5:30:08 PM</DateLastModified>
+		<Scheduled>false</Scheduled>
+	</mission>
+	<mission>
+		<Id>12</Id>
+		<Name>Targeting Hard Slow Dual</Name>
+		<Description />
+		<SuccessProbability>0</SuccessProbability>
+		<AccuracyCriterion>0</AccuracyCriterion>
+		<TimeCriterion>0</TimeCriterion>
+		<TimeRequirement>0</TimeRequirement>
+		<DateLastModified>7/18/2013 5:39:15 PM</DateLastModified>
+		<Scheduled>false</Scheduled>
+	</mission>
+	<mission>
+		<Id>13</Id>
+		<Name>Targeting Hard Fast Dual</Name>
+		<Description />
+		<SuccessProbability>0</SuccessProbability>
+		<AccuracyCriterion>0</AccuracyCriterion>
+		<TimeCriterion>0</TimeCriterion>
+		<TimeRequirement>0</TimeRequirement>
+		<DateLastModified>7/18/2013 5:41:25 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<networktask>
@@ -10083,332 +10577,6 @@ speed = 0;</BeginningEffect>
 		<LaunchEffect />
 	</networktask>
 	<networktask>
-		<Id>254</Id>
-		<Function_FK>19</Function_FK>
-		<Name>START</Name>
-		<Type>0</Type>
-		<MSSharpID>7_0</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>105.43358612060547</Width>
-		<XPos>20</XPos>
-		<YPos>50</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>255</Id>
-		<Function_FK>19</Function_FK>
-		<Name>find-black-target</Name>
-		<Type>1</Type>
-		<MSSharpID>7_2</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production
-return 0.05;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>198</XPos>
-		<YPos>48</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>256</Id>
-		<Function_FK>19</Function_FK>
-		<Name>move-cursor</Name>
-		<Type>1</Type>
-		<MSSharpID>7_3</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.05 + 0.20 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>381</XPos>
-		<YPos>48</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>257</Id>
-		<Function_FK>19</Function_FK>
-		<Name>distinguish-target</Name>
-		<Type>1</Type>
-		<MSSharpID>7_4</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production plus retrieval
-return 0.05 + RT(0.1);</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>2</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>557</XPos>
-		<YPos>48</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>258</Id>
-		<Function_FK>19</Function_FK>
-		<Name>click-mouse</Name>
-		<Type>1</Type>
-		<MSSharpID>7_5</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.05 + 0.15 + 0.1;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect>// +manual
-// TODO misses
-if(target1Hit) {
-	target2Hit = true;
-} else {
-	target1Hit = true;
-}</BeginningEffect>
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>2</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>769</XPos>
-		<YPos>48</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>259</Id>
-		<Function_FK>19</Function_FK>
-		<Name>END</Name>
-		<Type>2</Type>
-		<MSSharpID>7_999</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>104.71092987060547</Width>
-		<XPos>967</XPos>
-		<YPos>52</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
 		<Id>260</Id>
 		<Function_FK>15</Function_FK>
 		<Name>Hard Slow Selector</Name>
@@ -10455,441 +10623,6 @@ if(target1Hit) {
 		<Width>75.850250244140625</Width>
 		<XPos>210</XPos>
 		<YPos>323</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>261</Id>
-		<Function_FK>20</Function_FK>
-		<Name>START</Name>
-		<Type>0</Type>
-		<MSSharpID>9_0</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>105.43358612060547</Width>
-		<XPos>20</XPos>
-		<YPos>50</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>262</Id>
-		<Function_FK>20</Function_FK>
-		<Name>find-black-target</Name>
-		<Type>1</Type>
-		<MSSharpID>9_2</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production
-return 0.05;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>192</XPos>
-		<YPos>50</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>263</Id>
-		<Function_FK>20</Function_FK>
-		<Name>cap-first-location</Name>
-		<Type>1</Type>
-		<MSSharpID>9_3</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production
-return 0.05;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>386</XPos>
-		<YPos>50</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>264</Id>
-		<Function_FK>20</Function_FK>
-		<Name>lead-target</Name>
-		<Type>1</Type>
-		<MSSharpID>9_4</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production
-return 0.05;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>577</XPos>
-		<YPos>50</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>265</Id>
-		<Function_FK>20</Function_FK>
-		<Name>move-cursor</Name>
-		<Type>1</Type>
-		<MSSharpID>9_5</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production plus prep plus approximated movement
-return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>198</XPos>
-		<YPos>98</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>266</Id>
-		<Function_FK>20</Function_FK>
-		<Name>distinguish-target</Name>
-		<Type>1</Type>
-		<MSSharpID>9_6</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production plus retrieval
-return 0.05 + RT(0.1);</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>2</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>356</XPos>
-		<YPos>98</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>267</Id>
-		<Function_FK>20</Function_FK>
-		<Name>click-mouse</Name>
-		<Type>1</Type>
-		<MSSharpID>9_7</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>1</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>// production plus prep plus exec
-return 0.05 + 0.1;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect>// TODO misses
-if(target1Hit) {
-	target2Hit = true;
-} else {
-	target1Hit = true;
-}</BeginningEffect>
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>2</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>75.850250244140625</Width>
-		<XPos>573</XPos>
-		<YPos>98</YPos>
-		<BackgroundColor>NamedColor:Plum</BackgroundColor>
-		<TextColor>NamedColor:Black</TextColor>
-		<Shape>8</Shape>
-		<SizeType>1</SizeType>
-		<LaunchEffect />
-	</networktask>
-	<networktask>
-		<Id>268</Id>
-		<Function_FK>20</Function_FK>
-		<Name>END</Name>
-		<Type>2</Type>
-		<MSSharpID>9_999</MSSharpID>
-		<TimeRequirement>0</TimeRequirement>
-		<AccuracyRequirement>0</AccuracyRequirement>
-		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
-		<Criterion>0</Criterion>
-		<SuccessProbability>100</SuccessProbability>
-		<DataShapingInputType>0</DataShapingInputType>
-		<Distribution_FK>14</Distribution_FK>
-		<DataShaping1>0</DataShaping1>
-		<DataShaping2>0</DataShaping2>
-		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.0;</DataShapingExpression>
-		<StartTime>0</StartTime>
-		<StopTime>0</StopTime>
-		<TaskTime>0</TaskTime>
-		<AccuracyInputType>0</AccuracyInputType>
-		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
-		<AccuracyDS1>0</AccuracyDS1>
-		<AccuracyDS2>0</AccuracyDS2>
-		<AccuracyDS3>0</AccuracyDS3>
-		<AccuracyExpression>return true;</AccuracyExpression>
-		<Priority>3</Priority>
-		<InterruptStrategy>2</InterruptStrategy>
-		<ReleaseCond>return true;</ReleaseCond>
-		<BeginningEffect />
-		<EndEffect />
-		<ProbDegradeTask>0</ProbDegradeTask>
-		<DegradeTime>0</DegradeTime>
-		<DegradeAcc>0</DegradeAcc>
-		<ProbChangeTask>0</ProbChangeTask>
-		<ProbFailMission>0</ProbFailMission>
-		<ProbNoEffect>100</ProbNoEffect>
-		<ProbChangeOperator>0</ProbChangeOperator>
-		<ProbRepeatTask>0</ProbRepeatTask>
-		<BranchingDecisionType>0</BranchingDecisionType>
-		<CalculatedAccuracy>0</CalculatedAccuracy>
-		<CalculatedTime>0</CalculatedTime>
-		<CalculatedProbability>0</CalculatedProbability>
-		<Height>21.091144561767578</Height>
-		<Width>104.71092987060547</Width>
-		<XPos>761</XPos>
-		<YPos>107</YPos>
 		<BackgroundColor>NamedColor:Plum</BackgroundColor>
 		<TextColor>NamedColor:Black</TextColor>
 		<Shape>8</Shape>
@@ -15151,6 +14884,1846 @@ return 0.05 + 0.05;</DataShapingExpression>
 		<SizeType>1</SizeType>
 		<LaunchEffect />
 	</networktask>
+	<networktask>
+		<Id>421</Id>
+		<Function_FK>38</Function_FK>
+		<Name>Model START</Name>
+		<Type>0</Type>
+		<MSSharpID>0</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>130.59634399414063</Width>
+		<XPos>20</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>422</Id>
+		<Function_FK>38</Function_FK>
+		<Name>CutOff</Name>
+		<Type>1</Type>
+		<MSSharpID>6</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>2</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>6</StopTime>
+		<TaskTime>6</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect>Model.Halt();</EndEffect>
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>174</XPos>
+		<YPos>113</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>423</Id>
+		<Function_FK>38</Function_FK>
+		<Name>Model END</Name>
+		<Type>2</Type>
+		<MSSharpID>999</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>Model.Abort("ID", "6");</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>129.87368774414063</Width>
+		<XPos>330</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>424</Id>
+		<Function_FK>39</Function_FK>
+		<Name>START</Name>
+		<Type>0</Type>
+		<MSSharpID>5_0</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>105.43358612060547</Width>
+		<XPos>20</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>425</Id>
+		<Function_FK>39</Function_FK>
+		<Name>find-black-target-move-cursor</Name>
+		<Type>1</Type>
+		<MSSharpID>5_1</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>162</XPos>
+		<YPos>72</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>426</Id>
+		<Function_FK>39</Function_FK>
+		<Name>move-cursor-distinguish-target</Name>
+		<Type>1</Type>
+		<MSSharpID>5_2</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.05 + 0.20 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>419</XPos>
+		<YPos>83</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>427</Id>
+		<Function_FK>39</Function_FK>
+		<Name>distinguish-target-click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>5_3</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus retrieval
+return 0.05 + RT(0.1);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>533</XPos>
+		<YPos>136</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>428</Id>
+		<Function_FK>39</Function_FK>
+		<Name>click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>5_4</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.05 + 0.15 + 0.1;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>// +manual
+// TODO misses
+if(target1Hit) {
+	target2Hit = true;
+} else {
+	target1Hit = true;
+}</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>758</XPos>
+		<YPos>185</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>429</Id>
+		<Function_FK>39</Function_FK>
+		<Name>END</Name>
+		<Type>2</Type>
+		<MSSharpID>5_999</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>104.71092987060547</Width>
+		<XPos>967</XPos>
+		<YPos>52</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>433</Id>
+		<Function_FK>41</Function_FK>
+		<Name>START</Name>
+		<Type>0</Type>
+		<MSSharpID>14_0</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>105.43358612060547</Width>
+		<XPos>20</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>434</Id>
+		<Function_FK>41</Function_FK>
+		<Name>find-black-target-move-cursor</Name>
+		<Type>1</Type>
+		<MSSharpID>14_2</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>162</XPos>
+		<YPos>72</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>435</Id>
+		<Function_FK>41</Function_FK>
+		<Name>move-cursor-distinguish-target</Name>
+		<Type>1</Type>
+		<MSSharpID>14_3</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.05 + 0.20 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>419</XPos>
+		<YPos>83</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>436</Id>
+		<Function_FK>41</Function_FK>
+		<Name>distinguish-target-click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>14_4</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus retrieval
+return 0.05 + RT(0.1);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>533</XPos>
+		<YPos>136</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>437</Id>
+		<Function_FK>41</Function_FK>
+		<Name>click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>14_5</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.05 + 0.15 + 0.1;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>// +manual
+// TODO misses
+if(target1Hit) {
+	target2Hit = true;
+} else {
+	target1Hit = true;
+}</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>758</XPos>
+		<YPos>185</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>438</Id>
+		<Function_FK>41</Function_FK>
+		<Name>END</Name>
+		<Type>2</Type>
+		<MSSharpID>14_999</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>104.71092987060547</Width>
+		<XPos>967</XPos>
+		<YPos>52</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>439</Id>
+		<Function_FK>42</Function_FK>
+		<Name>Model START</Name>
+		<Type>0</Type>
+		<MSSharpID>0</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>130.59634399414063</Width>
+		<XPos>20</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>440</Id>
+		<Function_FK>42</Function_FK>
+		<Name>CutOff</Name>
+		<Type>1</Type>
+		<MSSharpID>8</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>2</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>6</StopTime>
+		<TaskTime>6</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect>Model.Halt();</EndEffect>
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>222</XPos>
+		<YPos>112</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>441</Id>
+		<Function_FK>42</Function_FK>
+		<Name>Model END</Name>
+		<Type>2</Type>
+		<MSSharpID>999</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>Model.Abort("ID", "8");</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>129.87368774414063</Width>
+		<XPos>341</XPos>
+		<YPos>52</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>442</Id>
+		<Function_FK>43</Function_FK>
+		<Name>START</Name>
+		<Type>0</Type>
+		<MSSharpID>7_0</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>105.43358612060547</Width>
+		<XPos>20</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>443</Id>
+		<Function_FK>43</Function_FK>
+		<Name>find-black-target-cap-first-location</Name>
+		<Type>1</Type>
+		<MSSharpID>7_1</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>184</XPos>
+		<YPos>51</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>444</Id>
+		<Function_FK>43</Function_FK>
+		<Name>cap-first-location-lead-target</Name>
+		<Type>1</Type>
+		<MSSharpID>7_2</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>394</XPos>
+		<YPos>87</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>445</Id>
+		<Function_FK>43</Function_FK>
+		<Name>lead-target-move-cursor</Name>
+		<Type>1</Type>
+		<MSSharpID>7_3</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>636</XPos>
+		<YPos>118</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>446</Id>
+		<Function_FK>43</Function_FK>
+		<Name>move-cursor-distinguish-target</Name>
+		<Type>1</Type>
+		<MSSharpID>7_4</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus prep plus approximated movement
+return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>177</XPos>
+		<YPos>173</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>447</Id>
+		<Function_FK>43</Function_FK>
+		<Name>distinguish-target-click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>7_5</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus retrieval
+return 0.05 + RT(0.1);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>350</XPos>
+		<YPos>209</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>448</Id>
+		<Function_FK>43</Function_FK>
+		<Name>click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>7_6</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus prep plus exec
+return 0.05 + 0.1;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>// TODO misses
+if(target1Hit) {
+	target2Hit = true;
+} else {
+	target1Hit = true;
+}</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>596</XPos>
+		<YPos>245</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>449</Id>
+		<Function_FK>43</Function_FK>
+		<Name>END</Name>
+		<Type>2</Type>
+		<MSSharpID>7_999</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>104.71092987060547</Width>
+		<XPos>783</XPos>
+		<YPos>184</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>450</Id>
+		<Function_FK>44</Function_FK>
+		<Name>START</Name>
+		<Type>0</Type>
+		<MSSharpID>15_0</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>105.43358612060547</Width>
+		<XPos>20</XPos>
+		<YPos>50</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>451</Id>
+		<Function_FK>44</Function_FK>
+		<Name>find-black-target-cap-first-location</Name>
+		<Type>1</Type>
+		<MSSharpID>15_2</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>184</XPos>
+		<YPos>51</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>452</Id>
+		<Function_FK>44</Function_FK>
+		<Name>cap-first-location-lead-target</Name>
+		<Type>1</Type>
+		<MSSharpID>15_3</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>394</XPos>
+		<YPos>87</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>453</Id>
+		<Function_FK>44</Function_FK>
+		<Name>lead-target-move-cursor</Name>
+		<Type>1</Type>
+		<MSSharpID>15_4</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production
+return 0.05;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>636</XPos>
+		<YPos>118</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>454</Id>
+		<Function_FK>44</Function_FK>
+		<Name>move-cursor-distinguish-target</Name>
+		<Type>1</Type>
+		<MSSharpID>15_5</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus prep plus approximated movement
+return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>177</XPos>
+		<YPos>173</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>455</Id>
+		<Function_FK>44</Function_FK>
+		<Name>distinguish-target-click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>15_6</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus retrieval
+return 0.05 + RT(0.1);</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>350</XPos>
+		<YPos>209</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>456</Id>
+		<Function_FK>44</Function_FK>
+		<Name>click-mouse</Name>
+		<Type>1</Type>
+		<MSSharpID>15_7</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>1</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>// production plus prep plus exec
+return 0.05 + 0.1;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>// TODO misses
+if(target1Hit) {
+	target2Hit = true;
+} else {
+	target1Hit = true;
+}</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>2</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>75.850250244140625</Width>
+		<XPos>596</XPos>
+		<YPos>245</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>457</Id>
+		<Function_FK>44</Function_FK>
+		<Name>END</Name>
+		<Type>2</Type>
+		<MSSharpID>15_999</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect />
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>104.71092987060547</Width>
+		<XPos>783</XPos>
+		<YPos>184</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
 	<nodelink>
 		<Id>0</Id>
 		<SourceFunction_FK>8</SourceFunction_FK>
@@ -15238,42 +16811,6 @@ return 0.05 + 0.05;</DataShapingExpression>
 		<TargetTask_FK>43</TargetTask_FK>
 		<XPosition>1127</XPosition>
 		<YPosition>51</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
-		<Id>30</Id>
-		<SourceFunction_FK>19</SourceFunction_FK>
-		<TargetTask_FK>260</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
-		<Id>31</Id>
-		<SourceFunction_FK>19</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
-		<Id>32</Id>
-		<SourceFunction_FK>20</SourceFunction_FK>
-		<TargetTask_FK>269</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
-		<Id>33</Id>
-		<SourceFunction_FK>20</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
 		<PathPointsIn />
 		<PathPointsOut />
 	</nodelink>
@@ -15379,6 +16916,78 @@ return 0.05 + 0.05;</DataShapingExpression>
 	<nodelink>
 		<Id>99</Id>
 		<SourceFunction_FK>35</SourceFunction_FK>
+		<TargetTask_FK>209</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>104</Id>
+		<SourceFunction_FK>39</SourceFunction_FK>
+		<TargetTask_FK>421</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>105</Id>
+		<SourceFunction_FK>39</SourceFunction_FK>
+		<TargetTask_FK>423</TargetTask_FK>
+		<XPosition>1127</XPosition>
+		<YPosition>51</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>109</Id>
+		<SourceFunction_FK>41</SourceFunction_FK>
+		<TargetTask_FK>260</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>110</Id>
+		<SourceFunction_FK>41</SourceFunction_FK>
+		<TargetTask_FK>209</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>111</Id>
+		<SourceFunction_FK>43</SourceFunction_FK>
+		<TargetTask_FK>439</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>112</Id>
+		<SourceFunction_FK>43</SourceFunction_FK>
+		<TargetTask_FK>441</TargetTask_FK>
+		<XPosition>902</XPosition>
+		<YPosition>106</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>115</Id>
+		<SourceFunction_FK>44</SourceFunction_FK>
+		<TargetTask_FK>269</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>116</Id>
+		<SourceFunction_FK>44</SourceFunction_FK>
 		<TargetTask_FK>209</TargetTask_FK>
 		<XPosition>10</XPosition>
 		<YPosition>10</YPosition>
@@ -16291,85 +17900,6 @@ return 1;</TacticalExpr>
 		<PathPoints />
 	</path>
 	<path>
-		<Id>352</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>254</SourceTask_FK>
-		<TargetTask_FK>255</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>353</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>255</SourceTask_FK>
-		<TargetTask_FK>256</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>354</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>256</SourceTask_FK>
-		<TargetTask_FK>257</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>355</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>257</SourceTask_FK>
-		<TargetTask_FK>258</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>// TODO need to make sure this is only evaluated once per decision because it sets foundFriend
-// if found friend is true, we had already seen the friend, so this one will be enemy
-if(friendFound) return 2;
-// if not found friend, this has 1/n chance of being friend, where n is total number of targets left
-if(Model.Random(0, target1Hit ? 2 : 3) &gt; 1) {
-	return 2;
-}
-friendFound = true;
-return 0;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>356</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>257</SourceTask_FK>
-		<TargetTask_FK>255</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>// return 1 so that this is selected only if click-mouse is not
-return 1;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints>720.5 58.54557,730.5 58.54557,730.5 85,188 85,188 58.54557,198 58.54557</PathPoints>
-	</path>
-	<path>
-		<Id>357</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>258</SourceTask_FK>
-		<TargetTask_FK>255</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
-		<MultipleExpr>return !(target1Hit &amp;&amp; target2Hit);</MultipleExpr>
-		<PathPoints>901.2695 58.54557,911.2695 58.54557,911.2695 110,188 110,188 58.54557,198 58.54557</PathPoints>
-	</path>
-	<path>
-		<Id>358</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>258</SourceTask_FK>
-		<TargetTask_FK>259</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
 		<Id>359</Id>
 		<Mission_FK>5</Mission_FK>
 		<SourceTask_FK>208</SourceTask_FK>
@@ -16380,125 +17910,6 @@ return 1;</TacticalExpr>
 		<PathPoints />
 	</path>
 	<path>
-		<Id>360</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>260</SourceTask_FK>
-		<TargetFunction_FK>19</TargetFunction_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>361</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceFunction_FK>19</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>362</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>261</SourceTask_FK>
-		<TargetTask_FK>262</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>363</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>262</SourceTask_FK>
-		<TargetTask_FK>263</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>364</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>263</SourceTask_FK>
-		<TargetTask_FK>264</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>365</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>264</SourceTask_FK>
-		<TargetTask_FK>265</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>366</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>265</SourceTask_FK>
-		<TargetTask_FK>266</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>367</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>266</SourceTask_FK>
-		<TargetTask_FK>267</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>// TODO need to make sure this is only evaluated once, because it sets friendFound
-// if friend is found remaining targets will always be enemies
-if(friendFound) return 2;
-// if friend is not found, this has 1/n chance of being friend, where n is number of remaining targets
-if(Model.Random(0,target1Hit ? 2 : 3) &gt; 1) {
-	return 2;
-}
-friendFound = true;
-return 0;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>368</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>266</SourceTask_FK>
-		<TargetTask_FK>262</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>// return 1 so this is selected if the above isn't
-return 1;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>369</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>267</SourceTask_FK>
-		<TargetTask_FK>262</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>370</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>267</SourceTask_FK>
-		<TargetTask_FK>268</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
 		<Id>371</Id>
 		<Mission_FK>5</Mission_FK>
 		<SourceTask_FK>208</SourceTask_FK>
@@ -16506,26 +17917,6 @@ return 1;</TacticalExpr>
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
 		<MultipleExpr>return difficulty == 1 &amp;&amp; speed == 1;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>372</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceTask_FK>269</SourceTask_FK>
-		<TargetFunction_FK>20</TargetFunction_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>373</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceFunction_FK>20</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
 		<PathPoints />
 	</path>
 	<path>
@@ -17478,6 +18869,462 @@ return 1;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
 		<PathPoints />
 	</path>
+	<path>
+		<Id>560</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>421</SourceTask_FK>
+		<TargetFunction_FK>39</TargetFunction_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>561</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>421</SourceTask_FK>
+		<TargetTask_FK>422</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>562</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>424</SourceTask_FK>
+		<TargetTask_FK>425</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>563</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>425</SourceTask_FK>
+		<TargetTask_FK>426</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>564</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>426</SourceTask_FK>
+		<TargetTask_FK>427</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>565</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>427</SourceTask_FK>
+		<TargetTask_FK>428</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// TODO need to make sure this is only evaluated once per decision because it sets foundFriend
+// if found friend is true, we had already seen the friend, so this one will be enemy
+if(friendFound) return 2;
+// if not found friend, this has 1/n chance of being friend, where n is total number of targets left
+if(Model.Random(0, target1Hit ? 2 : 3) &gt; 1) {
+	return 2;
+}
+friendFound = true;
+return 0;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>566</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>427</SourceTask_FK>
+		<TargetTask_FK>425</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// return 1 so that this is selected only if click-mouse is not
+return 1;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints>720.5 58.54557,730.5 58.54557,730.5 85,188 85,188 58.54557,198 58.54557</PathPoints>
+	</path>
+	<path>
+		<Id>567</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>428</SourceTask_FK>
+		<TargetTask_FK>425</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
+		<MultipleExpr>return !(target1Hit &amp;&amp; target2Hit);</MultipleExpr>
+		<PathPoints>901.2695 58.54557,911.2695 58.54557,911.2695 110,188 110,188 58.54557,198 58.54557</PathPoints>
+	</path>
+	<path>
+		<Id>568</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceTask_FK>428</SourceTask_FK>
+		<TargetTask_FK>429</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>569</Id>
+		<Mission_FK>12</Mission_FK>
+		<SourceFunction_FK>39</SourceFunction_FK>
+		<TargetTask_FK>423</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>571</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>433</SourceTask_FK>
+		<TargetTask_FK>434</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>572</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>434</SourceTask_FK>
+		<TargetTask_FK>435</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>573</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>435</SourceTask_FK>
+		<TargetTask_FK>436</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>574</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>436</SourceTask_FK>
+		<TargetTask_FK>437</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// TODO need to make sure this is only evaluated once per decision because it sets foundFriend
+// if found friend is true, we had already seen the friend, so this one will be enemy
+if(friendFound) return 2;
+// if not found friend, this has 1/n chance of being friend, where n is total number of targets left
+if(Model.Random(0, target1Hit ? 2 : 3) &gt; 1) {
+	return 2;
+}
+friendFound = true;
+return 0;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>575</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>436</SourceTask_FK>
+		<TargetTask_FK>434</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// return 1 so that this is selected only if click-mouse is not
+return 1;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints>720.5 58.54557,730.5 58.54557,730.5 85,188 85,188 58.54557,198 58.54557</PathPoints>
+	</path>
+	<path>
+		<Id>576</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>437</SourceTask_FK>
+		<TargetTask_FK>434</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
+		<MultipleExpr>return !(target1Hit &amp;&amp; target2Hit);</MultipleExpr>
+		<PathPoints>901.2695 58.54557,911.2695 58.54557,911.2695 110,188 110,188 58.54557,198 58.54557</PathPoints>
+	</path>
+	<path>
+		<Id>577</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>437</SourceTask_FK>
+		<TargetTask_FK>438</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>578</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>260</SourceTask_FK>
+		<TargetFunction_FK>41</TargetFunction_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>579</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceFunction_FK>41</SourceFunction_FK>
+		<TargetTask_FK>209</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>580</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>439</SourceTask_FK>
+		<TargetFunction_FK>43</TargetFunction_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>581</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>439</SourceTask_FK>
+		<TargetTask_FK>440</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>582</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>442</SourceTask_FK>
+		<TargetTask_FK>443</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>583</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>443</SourceTask_FK>
+		<TargetTask_FK>444</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>584</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>444</SourceTask_FK>
+		<TargetTask_FK>445</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>585</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>445</SourceTask_FK>
+		<TargetTask_FK>446</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>586</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>446</SourceTask_FK>
+		<TargetTask_FK>447</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>587</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>447</SourceTask_FK>
+		<TargetTask_FK>448</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// TODO need to make sure this is only evaluated once, because it sets friendFound
+// if friend is found remaining targets will always be enemies
+if(friendFound) return 2;
+// if friend is not found, this has 1/n chance of being friend, where n is number of remaining targets
+if(Model.Random(0,target1Hit ? 2 : 3) &gt; 1) {
+	return 2;
+}
+friendFound = true;
+return 0;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>588</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>447</SourceTask_FK>
+		<TargetTask_FK>443</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// return 1 so this is selected if the above isn't
+return 1;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>589</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>448</SourceTask_FK>
+		<TargetTask_FK>443</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>590</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceTask_FK>448</SourceTask_FK>
+		<TargetTask_FK>449</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>591</Id>
+		<Mission_FK>13</Mission_FK>
+		<SourceFunction_FK>43</SourceFunction_FK>
+		<TargetTask_FK>441</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>592</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>450</SourceTask_FK>
+		<TargetTask_FK>451</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>593</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>451</SourceTask_FK>
+		<TargetTask_FK>452</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>594</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>452</SourceTask_FK>
+		<TargetTask_FK>453</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>595</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>453</SourceTask_FK>
+		<TargetTask_FK>454</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>596</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>454</SourceTask_FK>
+		<TargetTask_FK>455</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>597</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>455</SourceTask_FK>
+		<TargetTask_FK>456</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// TODO need to make sure this is only evaluated once, because it sets friendFound
+// if friend is found remaining targets will always be enemies
+if(friendFound) return 2;
+// if friend is not found, this has 1/n chance of being friend, where n is number of remaining targets
+if(Model.Random(0,target1Hit ? 2 : 3) &gt; 1) {
+	return 2;
+}
+friendFound = true;
+return 0;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>598</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>455</SourceTask_FK>
+		<TargetTask_FK>451</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>// return 1 so this is selected if the above isn't
+return 1;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>599</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>456</SourceTask_FK>
+		<TargetTask_FK>451</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return !(target1Hit &amp;&amp; target2Hit);</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>600</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>456</SourceTask_FK>
+		<TargetTask_FK>457</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return target1Hit &amp;&amp; target2Hit;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>601</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>269</SourceTask_FK>
+		<TargetFunction_FK>44</TargetFunction_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>602</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceFunction_FK>44</SourceFunction_FK>
+		<TargetTask_FK>209</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
 	<resource>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -17853,6 +19700,90 @@ return 1;</TacticalExpr>
 	<resource>
 		<Id>76</Id>
 		<Mission_FK>10</Mission_FK>
+		<ResourceCode_FK>7</ResourceCode_FK>
+		<Name>Tactile</Name>
+	</resource>
+	<resource>
+		<Id>84</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>1</ResourceCode_FK>
+		<Name>Visual</Name>
+	</resource>
+	<resource>
+		<Id>85</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>2</ResourceCode_FK>
+		<Name>Auditory</Name>
+	</resource>
+	<resource>
+		<Id>86</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>3</ResourceCode_FK>
+		<Name>Fine Motor</Name>
+	</resource>
+	<resource>
+		<Id>87</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>4</ResourceCode_FK>
+		<Name>Speech</Name>
+	</resource>
+	<resource>
+		<Id>88</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>5</ResourceCode_FK>
+		<Name>Cognitive</Name>
+	</resource>
+	<resource>
+		<Id>89</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>6</ResourceCode_FK>
+		<Name>Gross Motor</Name>
+	</resource>
+	<resource>
+		<Id>90</Id>
+		<Mission_FK>12</Mission_FK>
+		<ResourceCode_FK>7</ResourceCode_FK>
+		<Name>Tactile</Name>
+	</resource>
+	<resource>
+		<Id>91</Id>
+		<Mission_FK>13</Mission_FK>
+		<ResourceCode_FK>1</ResourceCode_FK>
+		<Name>Visual</Name>
+	</resource>
+	<resource>
+		<Id>92</Id>
+		<Mission_FK>13</Mission_FK>
+		<ResourceCode_FK>2</ResourceCode_FK>
+		<Name>Auditory</Name>
+	</resource>
+	<resource>
+		<Id>93</Id>
+		<Mission_FK>13</Mission_FK>
+		<ResourceCode_FK>3</ResourceCode_FK>
+		<Name>Fine Motor</Name>
+	</resource>
+	<resource>
+		<Id>94</Id>
+		<Mission_FK>13</Mission_FK>
+		<ResourceCode_FK>4</ResourceCode_FK>
+		<Name>Speech</Name>
+	</resource>
+	<resource>
+		<Id>95</Id>
+		<Mission_FK>13</Mission_FK>
+		<ResourceCode_FK>5</ResourceCode_FK>
+		<Name>Cognitive</Name>
+	</resource>
+	<resource>
+		<Id>96</Id>
+		<Mission_FK>13</Mission_FK>
+		<ResourceCode_FK>6</ResourceCode_FK>
+		<Name>Gross Motor</Name>
+	</resource>
+	<resource>
+		<Id>97</Id>
+		<Mission_FK>13</Mission_FK>
 		<ResourceCode_FK>7</ResourceCode_FK>
 		<Name>Tactile</Name>
 	</resource>
@@ -18527,6 +20458,118 @@ return 1;</TacticalExpr>
 		<ConflictFlag1>0</ConflictFlag1>
 		<ConflictFlag2>0</ConflictFlag2>
 	</ripair>
+	<ripair>
+		<Id>62</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>85</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>63</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>88</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>64</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>86</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>65</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>89</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>66</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>87</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>67</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>90</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>68</Id>
+		<Mission_FK>12</Mission_FK>
+		<Resource_FK>84</Resource_FK>
+		<Interface_FK>12</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>69</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>92</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>70</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>95</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>71</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>93</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>72</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>96</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>73</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>94</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>74</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>97</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
+	<ripair>
+		<Id>75</Id>
+		<Mission_FK>13</Mission_FK>
+		<Resource_FK>91</Resource_FK>
+		<Interface_FK>13</Interface_FK>
+		<ConflictFlag1>0</ConflictFlag1>
+		<ConflictFlag2>0</ConflictFlag2>
+	</ripair>
 	<settingsop>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -18682,6 +20725,44 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>10</Id>
 		<Mission_FK>10</Mission_FK>
+		<NumRuns>1000</NumRuns>
+		<RandomSeed>1</RandomSeed>
+		<UsePerfectAccuracy>false</UsePerfectAccuracy>
+		<UseWorkloadStrategies>false</UseWorkloadStrategies>
+		<EnableBuiltInAnimation>false</EnableBuiltInAnimation>
+		<EnableCustomAnimation>false</EnableCustomAnimation>
+		<UsePTSAdjustments>false</UsePTSAdjustments>
+		<UseCulturalModel>false</UseCulturalModel>
+		<EnablePTSAdjustments>false</EnablePTSAdjustments>
+		<IsPersonnelApplied>false</IsPersonnelApplied>
+		<IsTrainingApplied>false</IsTrainingApplied>
+		<IsStressorsApplied>false</IsStressorsApplied>
+		<DisableReports>false</DisableReports>
+		<RealTime>false</RealTime>
+		<SpeedFactor>1</SpeedFactor>
+	</settingsop>
+	<settingsop>
+		<Id>12</Id>
+		<Mission_FK>12</Mission_FK>
+		<NumRuns>1000</NumRuns>
+		<RandomSeed>1</RandomSeed>
+		<UsePerfectAccuracy>false</UsePerfectAccuracy>
+		<UseWorkloadStrategies>false</UseWorkloadStrategies>
+		<EnableBuiltInAnimation>false</EnableBuiltInAnimation>
+		<EnableCustomAnimation>false</EnableCustomAnimation>
+		<UsePTSAdjustments>false</UsePTSAdjustments>
+		<UseCulturalModel>false</UseCulturalModel>
+		<EnablePTSAdjustments>false</EnablePTSAdjustments>
+		<IsPersonnelApplied>false</IsPersonnelApplied>
+		<IsTrainingApplied>false</IsTrainingApplied>
+		<IsStressorsApplied>false</IsStressorsApplied>
+		<DisableReports>false</DisableReports>
+		<RealTime>false</RealTime>
+		<SpeedFactor>1</SpeedFactor>
+	</settingsop>
+	<settingsop>
+		<Id>13</Id>
+		<Mission_FK>13</Mission_FK>
 		<NumRuns>1000</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
@@ -18930,83 +21011,6 @@ return 1;</TacticalExpr>
 		<RIPair_FK>30</RIPair_FK>
 		<NetworkTask_FK>203</NetworkTask_FK>
 		<Mission_FK>3</Mission_FK>
-		<DemandValue>2.2</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>119</Id>
-		<RIPair_FK>41</RIPair_FK>
-		<NetworkTask_FK>255</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>1</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>120</Id>
-		<RIPair_FK>37</RIPair_FK>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>4.6</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>121</Id>
-		<RIPair_FK>41</RIPair_FK>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>4</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>122</Id>
-		<RIPair_FK>37</RIPair_FK>
-		<NetworkTask_FK>258</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>2.2</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>123</Id>
-		<RIPair_FK>41</RIPair_FK>
-		<NetworkTask_FK>262</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>1</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>124</Id>
-		<RIPair_FK>41</RIPair_FK>
-		<NetworkTask_FK>263</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>1</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>125</Id>
-		<RIPair_FK>41</RIPair_FK>
-		<NetworkTask_FK>264</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>4</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>126</Id>
-		<RIPair_FK>37</RIPair_FK>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>4.6</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>127</Id>
-		<RIPair_FK>41</RIPair_FK>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>6</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>128</Id>
-		<RIPair_FK>36</RIPair_FK>
-		<NetworkTask_FK>266</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
-		<DemandValue>4.6</DemandValue>
-	</taskdemand>
-	<taskdemand>
-		<Id>129</Id>
-		<RIPair_FK>37</RIPair_FK>
-		<NetworkTask_FK>267</NetworkTask_FK>
-		<Mission_FK>5</Mission_FK>
 		<DemandValue>2.2</DemandValue>
 	</taskdemand>
 	<taskdemand>
@@ -19373,6 +21377,160 @@ return 1;</TacticalExpr>
 		<Mission_FK>5</Mission_FK>
 		<DemandValue>1</DemandValue>
 	</taskdemand>
+	<taskdemand>
+		<Id>219</Id>
+		<RIPair_FK>68</RIPair_FK>
+		<NetworkTask_FK>425</NetworkTask_FK>
+		<Mission_FK>12</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>220</Id>
+		<RIPair_FK>64</RIPair_FK>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Mission_FK>12</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>221</Id>
+		<RIPair_FK>68</RIPair_FK>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Mission_FK>12</Mission_FK>
+		<DemandValue>4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>222</Id>
+		<RIPair_FK>64</RIPair_FK>
+		<NetworkTask_FK>428</NetworkTask_FK>
+		<Mission_FK>12</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>224</Id>
+		<RIPair_FK>41</RIPair_FK>
+		<NetworkTask_FK>434</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>225</Id>
+		<RIPair_FK>37</RIPair_FK>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>226</Id>
+		<RIPair_FK>41</RIPair_FK>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>227</Id>
+		<RIPair_FK>37</RIPair_FK>
+		<NetworkTask_FK>437</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>228</Id>
+		<RIPair_FK>75</RIPair_FK>
+		<NetworkTask_FK>443</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>229</Id>
+		<RIPair_FK>75</RIPair_FK>
+		<NetworkTask_FK>444</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>230</Id>
+		<RIPair_FK>75</RIPair_FK>
+		<NetworkTask_FK>445</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>231</Id>
+		<RIPair_FK>71</RIPair_FK>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>232</Id>
+		<RIPair_FK>75</RIPair_FK>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>233</Id>
+		<RIPair_FK>70</RIPair_FK>
+		<NetworkTask_FK>447</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>234</Id>
+		<RIPair_FK>71</RIPair_FK>
+		<NetworkTask_FK>448</NetworkTask_FK>
+		<Mission_FK>13</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>235</Id>
+		<RIPair_FK>41</RIPair_FK>
+		<NetworkTask_FK>451</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>236</Id>
+		<RIPair_FK>41</RIPair_FK>
+		<NetworkTask_FK>452</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>1</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>237</Id>
+		<RIPair_FK>41</RIPair_FK>
+		<NetworkTask_FK>453</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>4</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>238</Id>
+		<RIPair_FK>37</RIPair_FK>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>239</Id>
+		<RIPair_FK>41</RIPair_FK>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>240</Id>
+		<RIPair_FK>36</RIPair_FK>
+		<NetworkTask_FK>455</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>4.6</DemandValue>
+	</taskdemand>
+	<taskdemand>
+		<Id>241</Id>
+		<RIPair_FK>37</RIPair_FK>
+		<NetworkTask_FK>456</NetworkTask_FK>
+		<Mission_FK>5</Mission_FK>
+		<DemandValue>2.2</DemandValue>
+	</taskdemand>
 	<taskinterface>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -19812,93 +21970,9 @@ return 1;</TacticalExpr>
 		<Interface_FK>5</Interface_FK>
 	</taskinterface>
 	<taskinterface>
-		<Id>254</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>254</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>255</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>255</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>256</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>257</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>257</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>258</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>258</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>259</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>259</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
 		<Id>260</Id>
 		<Mission_FK>5</Mission_FK>
 		<NetworkTask_FK>260</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>261</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>261</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>262</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>262</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>263</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>263</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>264</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>264</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>265</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>266</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>266</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>267</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>267</NetworkTask_FK>
-		<Interface_FK>5</Interface_FK>
-	</taskinterface>
-	<taskinterface>
-		<Id>268</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>268</NetworkTask_FK>
 		<Interface_FK>5</Interface_FK>
 	</taskinterface>
 	<taskinterface>
@@ -20369,6 +22443,210 @@ return 1;</TacticalExpr>
 		<NetworkTask_FK>411</NetworkTask_FK>
 		<Interface_FK>5</Interface_FK>
 	</taskinterface>
+	<taskinterface>
+		<Id>421</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>421</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>422</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>422</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>423</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>423</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>424</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>424</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>425</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>425</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>426</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>427</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>427</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>428</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>428</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>429</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>429</NetworkTask_FK>
+		<Interface_FK>12</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>433</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>433</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>434</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>434</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>435</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>436</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>436</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>437</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>437</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>438</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>438</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>439</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>439</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>440</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>440</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>441</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>441</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>442</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>442</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>443</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>443</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>444</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>444</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>445</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>445</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>446</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>447</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>447</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>448</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>448</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>449</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>449</NetworkTask_FK>
+		<Interface_FK>13</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>450</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>450</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>451</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>451</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>452</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>452</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>453</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>453</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>454</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>455</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>455</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>456</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>456</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>457</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>457</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
 	<taskoperator>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -20881,107 +23159,9 @@ return 1;</TacticalExpr>
 		<IsPrimary>true</IsPrimary>
 	</taskoperator>
 	<taskoperator>
-		<Id>254</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>254</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>255</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>255</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>256</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>256</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>257</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>257</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>258</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>258</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>259</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>259</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
 		<Id>260</Id>
 		<Mission_FK>5</Mission_FK>
 		<NetworkTask_FK>260</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>261</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>261</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>262</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>262</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>263</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>263</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>264</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>264</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>265</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>265</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>266</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>266</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>267</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>267</NetworkTask_FK>
-		<Operator_FK>0</Operator_FK>
-		<IsPrimary>true</IsPrimary>
-	</taskoperator>
-	<taskoperator>
-		<Id>268</Id>
-		<Mission_FK>5</Mission_FK>
-		<NetworkTask_FK>268</NetworkTask_FK>
 		<Operator_FK>0</Operator_FK>
 		<IsPrimary>true</IsPrimary>
 	</taskoperator>
@@ -21528,6 +23708,244 @@ return 1;</TacticalExpr>
 		<Id>411</Id>
 		<Mission_FK>5</Mission_FK>
 		<NetworkTask_FK>411</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>421</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>421</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>422</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>422</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>423</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>423</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>424</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>424</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>425</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>425</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>426</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>426</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>427</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>427</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>428</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>428</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>429</Id>
+		<Mission_FK>12</Mission_FK>
+		<NetworkTask_FK>429</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>433</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>433</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>434</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>434</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>435</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>435</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>436</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>436</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>437</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>437</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>438</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>438</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>439</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>439</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>440</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>440</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>441</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>441</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>442</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>442</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>443</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>443</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>444</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>444</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>445</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>445</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>446</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>446</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>447</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>447</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>448</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>448</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>449</Id>
+		<Mission_FK>13</Mission_FK>
+		<NetworkTask_FK>449</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>450</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>450</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>451</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>451</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>452</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>452</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>453</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>453</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>454</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>454</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>455</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>455</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>456</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>456</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>457</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>457</NetworkTask_FK>
 		<Operator_FK>0</Operator_FK>
 		<IsPrimary>true</IsPrimary>
 	</taskoperator>
@@ -21719,6 +24137,30 @@ return 1;</TacticalExpr>
 		<ReturnType>3</ReturnType>
 		<ArbitraryType />
 		<Description />
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
+	<usermacro>
+		<Id>18</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>RT</Name>
+		<Code>return lf * Math.Exp(-le * (baseLevel + Distributions.Logistic(0, Math.Sqrt(ans*ans*Math.PI*Math.PI/3))));</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description>Produce a random retrieval time from a base level</Description>
+		<IsCultural>false</IsCultural>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+	</usermacro>
+	<usermacro>
+		<Id>19</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>RT</Name>
+		<Code>return lf * Math.Exp(-le * (baseLevel + Distributions.Logistic(0, Math.Sqrt(ans*ans*Math.PI*Math.PI/3))));</Code>
+		<ReturnType>3</ReturnType>
+		<ArbitraryType />
+		<Description>Produce a random retrieval time from a base level</Description>
 		<IsCultural>false</IsCultural>
 		<IsArray>false</IsArray>
 		<ArrayDimensions />
@@ -21907,6 +24349,26 @@ return 1;</TacticalExpr>
 		<Id>19</Id>
 		<UserMacro_FK>16</UserMacro_FK>
 		<Name>time</Name>
+		<Type>3</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>21</Id>
+		<UserMacro_FK>18</UserMacro_FK>
+		<Name>baseLevel</Name>
+		<Type>3</Type>
+		<ArbitraryType />
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<Ordinal>0</Ordinal>
+	</usermacroparameter>
+	<usermacroparameter>
+		<Id>22</Id>
+		<UserMacro_FK>19</UserMacro_FK>
+		<Name>baseLevel</Name>
 		<Type>3</Type>
 		<ArbitraryType />
 		<IsArray>false</IsArray>
@@ -23017,4 +25479,172 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+	<variable>
+		<Id>106</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>ans</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.05</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>107</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>Clock</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.0</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>108</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>friendFound</Name>
+		<Type>1</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>false</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>109</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>le</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>10</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>110</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>lf</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.2</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>111</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>target1Hit</Name>
+		<Type>1</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>false</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>112</Id>
+		<Mission_FK>12</Mission_FK>
+		<Name>target2Hit</Name>
+		<Type>1</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>false</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>113</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>ans</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.05</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>114</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>Clock</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.0</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>115</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>friendFound</Name>
+		<Type>1</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>false</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>116</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>le</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>10</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>117</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>lf</Name>
+		<Type>3</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0.2</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>118</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>target1Hit</Name>
+		<Type>1</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>false</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+	<variable>
+		<Id>119</Id>
+		<Mission_FK>13</Mission_FK>
+		<Name>target2Hit</Name>
+		<Type>1</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>false</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+</IMPRINTProDB>                                                                                                                                                                                                                        
