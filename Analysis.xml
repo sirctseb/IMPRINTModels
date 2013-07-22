@@ -1,6 +1,6 @@
 <IMPRINTProDB>
 	<xs:schema id="IMPRINTProDB" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
-		<xs:element name="IMPRINTProDB" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Folder_FK="Dissertation" msprop:ApplicationVersion="3.5.29.95" msprop:Name="Experiment 1" msprop:dbVersion="3.5.0.2" msprop:Description="" msprop:Version="1">
+		<xs:element name="IMPRINTProDB" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Folder_FK="Dissertation" msprop:ApplicationVersion="3.5.29.95" msprop:Version="1" msprop:dbVersion="3.5.0.2" msprop:Description="" msprop:Name="Experiment 1">
 			<xs:complexType>
 				<xs:choice minOccurs="0" maxOccurs="unbounded">
 					<xs:element name="accuracymeasure">
@@ -1369,29 +1369,29 @@
 				<xs:selector xpath=".//workloadmonitor" />
 				<xs:field xpath="Id" />
 			</xs:unique>
-			<xs:keyref name="FK_WorkloadMonitor_Function" refer="function_Constraint1">
-				<xs:selector xpath=".//workloadmonitor" />
-				<xs:field xpath="Function_FK" />
-			</xs:keyref>
 			<xs:keyref name="FK_WorkloadMonitor_Operator" refer="operator_Constraint1">
 				<xs:selector xpath=".//workloadmonitor" />
 				<xs:field xpath="Operator_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_Weapon_Segment" refer="segment_Constraint1">
-				<xs:selector xpath=".//weapon" />
-				<xs:field xpath="Segment_FK" />
+			<xs:keyref name="FK_WorkloadMonitor_Function" refer="function_Constraint1">
+				<xs:selector xpath=".//workloadmonitor" />
+				<xs:field xpath="Function_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Weapon_Subsystem" refer="subsystem_Constraint1">
 				<xs:selector xpath=".//weapon" />
 				<xs:field xpath="Subsystem_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_VariableWatch_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//variablewatch" />
-				<xs:field xpath="Mission_FK" />
+			<xs:keyref name="FK_Weapon_Segment" refer="segment_Constraint1">
+				<xs:selector xpath=".//weapon" />
+				<xs:field xpath="Segment_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_VariableWatch_Variable" refer="variable_Constraint1">
 				<xs:selector xpath=".//variablewatch" />
 				<xs:field xpath="Variable_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_VariableWatch_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//variablewatch" />
+				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Variable_Mission" refer="mission_Constraint1">
 				<xs:selector xpath=".//variable" />
@@ -1409,281 +1409,281 @@
 				<xs:selector xpath=".//unplannedactivity" />
 				<xs:field xpath="ForceUnit_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_TaskOperator_Mission" refer="mission_Constraint1" msdata:DeleteRule="SetNull">
+			<xs:keyref name="FK_TaskOperator_Operator" refer="operator_Constraint1">
 				<xs:selector xpath=".//taskoperator" />
-				<xs:field xpath="Mission_FK" />
+				<xs:field xpath="Operator_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_TaskOperator_NetworkTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//taskoperator" />
 				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_TaskOperator_Operator" refer="operator_Constraint1">
+			<xs:keyref name="FK_TaskOperator_Mission" refer="mission_Constraint1" msdata:DeleteRule="SetNull">
 				<xs:selector xpath=".//taskoperator" />
-				<xs:field xpath="Operator_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_TaskInterface_Interface" refer="interface_Constraint1">
-				<xs:selector xpath=".//taskinterface" />
-				<xs:field xpath="Interface_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_TaskInterface_Mission" refer="mission_Constraint1" msdata:DeleteRule="SetNull">
-				<xs:selector xpath=".//taskinterface" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_TaskInterface_NetworkTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//taskinterface" />
 				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_TaskDemand_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//taskdemand" />
+			<xs:keyref name="FK_TaskInterface_Mission" refer="mission_Constraint1" msdata:DeleteRule="SetNull">
+				<xs:selector xpath=".//taskinterface" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_TaskDemand_NetworkTask" refer="networktask_Constraint1">
-				<xs:selector xpath=".//taskdemand" />
-				<xs:field xpath="NetworkTask_FK" />
+			<xs:keyref name="FK_TaskInterface_Interface" refer="interface_Constraint1">
+				<xs:selector xpath=".//taskinterface" />
+				<xs:field xpath="Interface_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_TaskDemand_RIPair" refer="ripair_Constraint1">
 				<xs:selector xpath=".//taskdemand" />
 				<xs:field xpath="RIPair_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_Supply_Scenario" refer="scenario_Constraint1">
-				<xs:selector xpath=".//supply" />
-				<xs:field xpath="Scenario_FK" />
+			<xs:keyref name="FK_TaskDemand_NetworkTask" refer="networktask_Constraint1">
+				<xs:selector xpath=".//taskdemand" />
+				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_Supply_Specialty_Specialty1" refer="specialty_Constraint1">
-				<xs:selector xpath=".//supply" />
-				<xs:field xpath="Specialty1_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Supply_Specialty_Specialty2" refer="specialty_Constraint1">
-				<xs:selector xpath=".//supply" />
-				<xs:field xpath="Specialty2_FK" />
+			<xs:keyref name="FK_TaskDemand_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//taskdemand" />
+				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Supply_Subsystem" refer="subsystem_Constraint1">
 				<xs:selector xpath=".//supply" />
 				<xs:field xpath="Subsystem_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_SparePart_Scenario" refer="scenario_Constraint1">
-				<xs:selector xpath=".//sparepart" />
+			<xs:keyref name="FK_Supply_Specialty_Specialty2" refer="specialty_Constraint1">
+				<xs:selector xpath=".//supply" />
+				<xs:field xpath="Specialty2_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_Supply_Specialty_Specialty1" refer="specialty_Constraint1">
+				<xs:selector xpath=".//supply" />
+				<xs:field xpath="Specialty1_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_Supply_Scenario" refer="scenario_Constraint1">
+				<xs:selector xpath=".//supply" />
 				<xs:field xpath="Scenario_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_SparePart_Subsystem" refer="subsystem_Constraint1">
 				<xs:selector xpath=".//sparepart" />
 				<xs:field xpath="Subsystem_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_SnapshotVariable_Snapshot" refer="snapshot_Constraint1">
-				<xs:selector xpath=".//snapshotvariable" />
-				<xs:field xpath="Snapshot_FK" />
+			<xs:keyref name="FK_SparePart_Scenario" refer="scenario_Constraint1">
+				<xs:selector xpath=".//sparepart" />
+				<xs:field xpath="Scenario_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_SnapshotVariable_Variable" refer="variable_Constraint1">
 				<xs:selector xpath=".//snapshotvariable" />
 				<xs:field xpath="Variable_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_Snapshot_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//snapshot" />
-				<xs:field xpath="Mission_FK" />
+			<xs:keyref name="FK_SnapshotVariable_Snapshot" refer="snapshot_Constraint1">
+				<xs:selector xpath=".//snapshotvariable" />
+				<xs:field xpath="Snapshot_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Snapshot_NetworkTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//snapshot" />
 				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_Snapshot_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//snapshot" />
+				<xs:field xpath="Mission_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_SettingsMx_Scenario" refer="scenario_Constraint1">
 				<xs:selector xpath=".//settingsmx" />
 				<xs:field xpath="Scenario_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_SettingsOp_CulturalTemplate" refer="culturaltemplate_Constraint1" msdata:DeleteRule="SetNull">
-				<xs:selector xpath=".//settingsop" />
-				<xs:field xpath="CulturalTemplate_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_SettingsOp_Mission" refer="mission_Constraint1">
 				<xs:selector xpath=".//settingsop" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_SettingsOp_CulturalTemplate" refer="culturaltemplate_Constraint1" msdata:DeleteRule="SetNull">
+				<xs:selector xpath=".//settingsop" />
+				<xs:field xpath="CulturalTemplate_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_SettingsFc_ForceUnit" refer="forceunit_Constraint1">
 				<xs:selector xpath=".//settingsfc" />
 				<xs:field xpath="ForceUnit_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Segment_Mission" refer="mission_Constraint1" msdata:DeleteRule="SetNull">
-				<xs:selector xpath=".//segment" />
-				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Segment_Scenario" refer="scenario_Constraint1">
 				<xs:selector xpath=".//segment" />
 				<xs:field xpath="Scenario_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_Segment_Mission" refer="mission_Constraint1" msdata:DeleteRule="SetNull">
+				<xs:selector xpath=".//segment" />
+				<xs:field xpath="Mission_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_ScheduleJobMap_Scedule" refer="schedule_Constraint1">
+				<xs:selector xpath=".//schedulejobmap" />
+				<xs:field xpath="Schedule_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_ScheduleJobMap_Job" refer="job_Constraint1">
 				<xs:selector xpath=".//schedulejobmap" />
 				<xs:field xpath="Job_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_ScheduleJobMap_Scedule" refer="schedule_Constraint1">
-				<xs:selector xpath=".//schedulejobmap" />
+			<xs:keyref name="FK_ScheduleDetail_Scedule" refer="schedule_Constraint1">
+				<xs:selector xpath=".//scheduledetail" />
 				<xs:field xpath="Schedule_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_ScheduleDetail_Activity" refer="plannedactivity_Constraint1">
 				<xs:selector xpath=".//scheduledetail" />
 				<xs:field xpath="PlannedActivity_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_ScheduleDetail_Scedule" refer="schedule_Constraint1">
-				<xs:selector xpath=".//scheduledetail" />
-				<xs:field xpath="Schedule_FK" />
-			</xs:keyref>
 			<xs:keyref name="FK_Schedule_ForceUnit" refer="forceunit_Constraint1">
 				<xs:selector xpath=".//schedule" />
 				<xs:field xpath="ForceUnit_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_ScenarioEvent_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//scenarioevent" />
-				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_ScenarioEvent_NetworkTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//scenarioevent" />
 				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_RIPairConflict_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//ripairconflict" />
+			<xs:keyref name="FK_ScenarioEvent_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//scenarioevent" />
 				<xs:field xpath="Mission_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_RIPairConflict_RIPair1" refer="ripair_Constraint1">
-				<xs:selector xpath=".//ripairconflict" />
-				<xs:field xpath="RIPair1_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_RIPairConflict_RIPair2" refer="ripair_Constraint1">
 				<xs:selector xpath=".//ripairconflict" />
 				<xs:field xpath="RIPair2_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_RIPair_Interface" refer="interface_Constraint1">
-				<xs:selector xpath=".//ripair" />
-				<xs:field xpath="Interface_FK" />
+			<xs:keyref name="FK_RIPairConflict_RIPair1" refer="ripair_Constraint1">
+				<xs:selector xpath=".//ripairconflict" />
+				<xs:field xpath="RIPair1_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_RIPair_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//ripair" />
+			<xs:keyref name="FK_RIPairConflict_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//ripairconflict" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_RIPair_Resource" refer="resource_Constraint1">
 				<xs:selector xpath=".//ripair" />
 				<xs:field xpath="Resource_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_ResourceThreshold_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//resourcethreshold" />
+			<xs:keyref name="FK_RIPair_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//ripair" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_ResourceThreshold_Operator" refer="operator_Constraint1">
-				<xs:selector xpath=".//resourcethreshold" />
-				<xs:field xpath="Operator_FK" />
+			<xs:keyref name="FK_RIPair_Interface" refer="interface_Constraint1">
+				<xs:selector xpath=".//ripair" />
+				<xs:field xpath="Interface_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_ResourceThreshold_Resource" refer="resource_Constraint1">
 				<xs:selector xpath=".//resourcethreshold" />
 				<xs:field xpath="Resource_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_ResourceThreshold_Operator" refer="operator_Constraint1">
+				<xs:selector xpath=".//resourcethreshold" />
+				<xs:field xpath="Operator_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_ResourceThreshold_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//resourcethreshold" />
+				<xs:field xpath="Mission_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_Resource_Mission" refer="mission_Constraint1">
 				<xs:selector xpath=".//resource" />
 				<xs:field xpath="Mission_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_RepairTask_Component" refer="component_Constraint1">
-				<xs:selector xpath=".//repairtask" />
-				<xs:field xpath="Component_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_RepairTask_OrgLevel" refer="orglevel_Constraint1">
-				<xs:selector xpath=".//repairtask" />
-				<xs:field xpath="OrgLevel_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_RepairTask_Specialty_Specialty1" refer="specialty_Constraint1">
-				<xs:selector xpath=".//repairtask" />
-				<xs:field xpath="Specialty1_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_RepairTask_Specialty_Specialty2" refer="specialty_Constraint1">
 				<xs:selector xpath=".//repairtask" />
 				<xs:field xpath="Specialty2_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_RepairTask_Specialty_Specialty1" refer="specialty_Constraint1">
+				<xs:selector xpath=".//repairtask" />
+				<xs:field xpath="Specialty1_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_RepairTask_OrgLevel" refer="orglevel_Constraint1">
+				<xs:selector xpath=".//repairtask" />
+				<xs:field xpath="OrgLevel_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_RepairTask_Component" refer="component_Constraint1">
+				<xs:selector xpath=".//repairtask" />
+				<xs:field xpath="Component_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_PlannedActivity_ForceUnit" refer="forceunit_Constraint1">
 				<xs:selector xpath=".//plannedactivity" />
 				<xs:field xpath="ForceUnit_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Path_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//path" />
-				<xs:field xpath="Mission_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Path_SourceFunction" refer="function_Constraint1">
-				<xs:selector xpath=".//path" />
-				<xs:field xpath="SourceFunction_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Path_SourceTask" refer="networktask_Constraint1">
-				<xs:selector xpath=".//path" />
-				<xs:field xpath="SourceTask_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Path_TargetFunction" refer="function_Constraint1">
-				<xs:selector xpath=".//path" />
-				<xs:field xpath="TargetFunction_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Path_TargetTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//path" />
 				<xs:field xpath="TargetTask_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_Path_TargetFunction" refer="function_Constraint1">
+				<xs:selector xpath=".//path" />
+				<xs:field xpath="TargetFunction_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_Path_SourceTask" refer="networktask_Constraint1">
+				<xs:selector xpath=".//path" />
+				<xs:field xpath="SourceTask_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_Path_SourceFunction" refer="function_Constraint1">
+				<xs:selector xpath=".//path" />
+				<xs:field xpath="SourceFunction_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_Path_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//path" />
+				<xs:field xpath="Mission_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_Operator_Specialty" refer="specialty_Constraint1">
 				<xs:selector xpath=".//operator" />
 				<xs:field xpath="Specialty_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_NodeLink_SourceFunction" refer="function_Constraint1">
-				<xs:selector xpath=".//nodelink" />
-				<xs:field xpath="SourceFunction_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_NodeLink_TargetFunction" refer="function_Constraint1">
-				<xs:selector xpath=".//nodelink" />
-				<xs:field xpath="TargetFunction_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_NodeLink_TargetTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//nodelink" />
 				<xs:field xpath="TargetTask_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_NetworkTask_ChangeOperatorTask" refer="networktask_Constraint1" msdata:DeleteRule="SetNull">
-				<xs:selector xpath=".//networktask" />
-				<xs:field xpath="ChangeOperatorTask_FK" />
+			<xs:keyref name="FK_NodeLink_TargetFunction" refer="function_Constraint1">
+				<xs:selector xpath=".//nodelink" />
+				<xs:field xpath="TargetFunction_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_NetworkTask_ChangeTask" refer="networktask_Constraint1" msdata:DeleteRule="SetNull">
-				<xs:selector xpath=".//networktask" />
-				<xs:field xpath="ChangeTask_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_NetworkTask_DegradeTask" refer="networktask_Constraint1" msdata:DeleteRule="SetNull">
-				<xs:selector xpath=".//networktask" />
-				<xs:field xpath="DegradeTask_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_NetworkTask_Function" refer="function_Constraint1">
-				<xs:selector xpath=".//networktask" />
-				<xs:field xpath="Function_FK" />
+			<xs:keyref name="FK_NodeLink_SourceFunction" refer="function_Constraint1">
+				<xs:selector xpath=".//nodelink" />
+				<xs:field xpath="SourceFunction_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_NetworkTask_Operator" refer="operator_Constraint1" msdata:DeleteRule="SetNull">
 				<xs:selector xpath=".//networktask" />
 				<xs:field xpath="ChangeOperator_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_NetworkTask_Function" refer="function_Constraint1">
+				<xs:selector xpath=".//networktask" />
+				<xs:field xpath="Function_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_NetworkTask_DegradeTask" refer="networktask_Constraint1" msdata:DeleteRule="SetNull">
+				<xs:selector xpath=".//networktask" />
+				<xs:field xpath="DegradeTask_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_NetworkTask_ChangeTask" refer="networktask_Constraint1" msdata:DeleteRule="SetNull">
+				<xs:selector xpath=".//networktask" />
+				<xs:field xpath="ChangeTask_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_NetworkTask_ChangeOperatorTask" refer="networktask_Constraint1" msdata:DeleteRule="SetNull">
+				<xs:selector xpath=".//networktask" />
+				<xs:field xpath="ChangeOperatorTask_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_Manning_UnplannedActivitity" refer="unplannedactivity_Constraint1">
 				<xs:selector xpath=".//manning" />
 				<xs:field xpath="UnplannedActivity_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_Job_ForceUnit" refer="forceunit_Constraint1">
-				<xs:selector xpath=".//job" />
-				<xs:field xpath="ForceUnit_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Job_Specialty" refer="specialty_Constraint1">
 				<xs:selector xpath=".//job" />
 				<xs:field xpath="Specialty_FK" />
 			</xs:keyref>
+			<xs:keyref name="FK_Job_ForceUnit" refer="forceunit_Constraint1">
+				<xs:selector xpath=".//job" />
+				<xs:field xpath="ForceUnit_FK" />
+			</xs:keyref>
 			<xs:keyref name="FK_Interface_Mission" refer="mission_Constraint1">
 				<xs:selector xpath=".//interface" />
 				<xs:field xpath="Mission_FK" />
-			</xs:keyref>
-			<xs:keyref name="FK_GoalAction_Function_OtherGoal" refer="function_Constraint1">
-				<xs:selector xpath=".//goalaction" />
-				<xs:field xpath="OtherGoal_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_GoalAction_Function_OwnerGoal" refer="function_Constraint1">
 				<xs:selector xpath=".//goalaction" />
 				<xs:field xpath="OwnerGoal_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_Function_Mission" refer="mission_Constraint1">
-				<xs:selector xpath=".//function" />
-				<xs:field xpath="Mission_FK" />
+			<xs:keyref name="FK_GoalAction_Function_OtherGoal" refer="function_Constraint1">
+				<xs:selector xpath=".//goalaction" />
+				<xs:field xpath="OtherGoal_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Function_ParentFunction" refer="function_Constraint1">
 				<xs:selector xpath=".//function" />
 				<xs:field xpath="ParentFunction_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_Function_Mission" refer="mission_Constraint1">
+				<xs:selector xpath=".//function" />
+				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_CustomTrainingLevel_CustomTraining" refer="customtraining_Constraint1">
 				<xs:selector xpath=".//customtraininglevel" />
@@ -1705,25 +1705,25 @@
 				<xs:selector xpath=".//customreportcolumn" />
 				<xs:field xpath="CustomReport_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_CulturalTemplateParameter_CulturalTemplate" refer="culturaltemplate_Constraint1">
-				<xs:selector xpath=".//culturaltemplateparameter" />
-				<xs:field xpath="CulturalTemplate_FK" />
-			</xs:keyref>
 			<xs:keyref name="FK_CulturalTemplateParameter_Variable" refer="variable_Constraint1">
 				<xs:selector xpath=".//culturaltemplateparameter" />
 				<xs:field xpath="Variable_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_CulturalTemplateParameter_CulturalTemplate" refer="culturaltemplate_Constraint1">
+				<xs:selector xpath=".//culturaltemplateparameter" />
+				<xs:field xpath="CulturalTemplate_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_CulturalTemplate_Mission" refer="mission_Constraint1">
 				<xs:selector xpath=".//culturaltemplate" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_CrewLimit_Scenario" refer="scenario_Constraint1">
-				<xs:selector xpath=".//crewlimit" />
-				<xs:field xpath="Scenario_FK" />
-			</xs:keyref>
 			<xs:keyref name="FK_CrewLimit_Specialty" refer="specialty_Constraint1">
 				<xs:selector xpath=".//crewlimit" />
 				<xs:field xpath="Specialty_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_CrewLimit_Scenario" refer="scenario_Constraint1">
+				<xs:selector xpath=".//crewlimit" />
+				<xs:field xpath="Scenario_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_Component_Subsystem" refer="subsystem_Constraint1">
 				<xs:selector xpath=".//component" />
@@ -1745,41 +1745,41 @@
 				<xs:selector xpath=".//chart" />
 				<xs:field xpath="Mission_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_AppliedTraining_Operator" refer="operator_Constraint1">
-				<xs:selector xpath=".//appliedtraining" />
-				<xs:field xpath="Operator_FK" />
-			</xs:keyref>
 			<xs:keyref name="FK_AppliedTraining_Specialty" refer="specialty_Constraint1">
 				<xs:selector xpath=".//appliedtraining" />
 				<xs:field xpath="Specialty_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_AppliedTraining_Operator" refer="operator_Constraint1">
+				<xs:selector xpath=".//appliedtraining" />
+				<xs:field xpath="Operator_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_AppliedTaxonOp_NetworkTask" refer="networktask_Constraint1">
 				<xs:selector xpath=".//appliedtaxonop" />
 				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_AppliedPersonnel_Operator" refer="operator_Constraint1">
-				<xs:selector xpath=".//appliedpersonnel" />
-				<xs:field xpath="Operator_FK" />
-			</xs:keyref>
 			<xs:keyref name="FK_AppliedPersonnel_Specialty" refer="specialty_Constraint1">
 				<xs:selector xpath=".//appliedpersonnel" />
 				<xs:field xpath="Specialty_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_AppliedCustomTrainingOp_NetworkTask" refer="networktask_Constraint1">
-				<xs:selector xpath=".//appliedcustomtrainingop" />
-				<xs:field xpath="NetworkTask_FK" />
+			<xs:keyref name="FK_AppliedPersonnel_Operator" refer="operator_Constraint1">
+				<xs:selector xpath=".//appliedpersonnel" />
+				<xs:field xpath="Operator_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_AppliedCustomTrainingOp_CustomTrainingLevel" refer="customtraininglevel_Constraint1">
 				<xs:selector xpath=".//appliedcustomtrainingop" />
 				<xs:field xpath="CustomTrainingLevel_FK" />
 			</xs:keyref>
-			<xs:keyref name="FK_AppliedCustomTrainingMx_RepairTask" refer="repairtask_Constraint1">
-				<xs:selector xpath=".//appliedcustomtrainingmx" />
-				<xs:field xpath="RepairTask_FK" />
+			<xs:keyref name="FK_AppliedCustomTrainingOp_NetworkTask" refer="networktask_Constraint1">
+				<xs:selector xpath=".//appliedcustomtrainingop" />
+				<xs:field xpath="NetworkTask_FK" />
 			</xs:keyref>
 			<xs:keyref name="FK_AppliedCustomTrainingMx_CustomTrainingLevel" refer="customtraininglevel_Constraint1">
 				<xs:selector xpath=".//appliedcustomtrainingmx" />
 				<xs:field xpath="CustomTrainingLevel_FK" />
+			</xs:keyref>
+			<xs:keyref name="FK_AppliedCustomTrainingMx_RepairTask" refer="repairtask_Constraint1">
+				<xs:selector xpath=".//appliedcustomtrainingmx" />
+				<xs:field xpath="RepairTask_FK" />
 			</xs:keyref>
 		</xs:element>
 	</xs:schema>
@@ -6508,7 +6508,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6519,7 +6519,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6530,7 +6530,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6541,7 +6541,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6552,7 +6552,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6563,7 +6563,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:09 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:18:38 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6574,7 +6574,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6585,7 +6585,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6596,7 +6596,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6607,7 +6607,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6618,7 +6618,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/19/2013 2:10:00 PM</DateLastModified>
+		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<networktask>
@@ -25006,7 +25006,7 @@ return 1;</TacticalExpr>
 		<Type>4</Type>
 		<IsCultural>false</IsCultural>
 		<Description />
-		<InitialValue>0</InitialValue>
+		<InitialValue>-1</InitialValue>
 		<IsArray>false</IsArray>
 		<ArrayDimensions />
 		<ArbitraryType />
@@ -25647,4 +25647,16 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                 
+	<variable>
+		<Id>120</Id>
+		<Mission_FK>5</Mission_FK>
+		<Name>EnableScope</Name>
+		<Type>4</Type>
+		<IsCultural>false</IsCultural>
+		<Description />
+		<InitialValue>0</InitialValue>
+		<IsArray>false</IsArray>
+		<ArrayDimensions />
+		<ArbitraryType />
+	</variable>
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
