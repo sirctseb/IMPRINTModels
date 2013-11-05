@@ -5784,6 +5784,42 @@
 		<Taxon_FK>0</Taxon_FK>
 		<Weight>0</Weight>
 	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1374</Id>
+		<NetworkTask_FK>458</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1375</Id>
+		<NetworkTask_FK>458</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1376</Id>
+		<NetworkTask_FK>458</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1377</Id>
+		<NetworkTask_FK>459</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1378</Id>
+		<NetworkTask_FK>459</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
+	<appliedtaxonop>
+		<Id>1379</Id>
+		<NetworkTask_FK>459</NetworkTask_FK>
+		<Taxon_FK>0</Taxon_FK>
+		<Weight>0</Weight>
+	</appliedtaxonop>
 	<function>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -6508,7 +6544,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6519,7 +6555,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6530,7 +6566,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6541,7 +6577,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6552,7 +6588,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6563,7 +6599,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:18:38 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:17:21 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6574,7 +6610,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6585,7 +6621,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6596,7 +6632,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6607,7 +6643,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<mission>
@@ -6618,7 +6654,7 @@
 		<AccuracyCriterion>0</AccuracyCriterion>
 		<TimeCriterion>0</TimeCriterion>
 		<TimeRequirement>0</TimeRequirement>
-		<DateLastModified>7/22/2013 3:17:41 PM</DateLastModified>
+		<DateLastModified>9/24/2013 11:11:43 AM</DateLastModified>
 		<Scheduled>false</Scheduled>
 	</mission>
 	<networktask>
@@ -10338,9 +10374,9 @@ if(target1Hit) {
 		<InterruptStrategy>2</InterruptStrategy>
 		<ReleaseCond>return true;</ReleaseCond>
 		<BeginningEffect>// setup levels
-oprange = 0;
-difficulty = 0;
-speed = 0;</BeginningEffect>
+oprange = 1;
+difficulty = 1;
+speed = 1;</BeginningEffect>
 		<EndEffect />
 		<ProbDegradeTask>0</ProbDegradeTask>
 		<DegradeTime>0</DegradeTime>
@@ -13863,7 +13899,7 @@ return 0.05;</DataShapingExpression>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
 		<DataShapingExpression>// production plus prepare plus approximated movement time
-return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+return 0.05 + 0.2 + Distributions.Normal(0.29, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -14626,7 +14662,7 @@ return 0.05;</DataShapingExpression>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
 		<DataShapingExpression>// production plus prep plus approximated movement
-return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+return 0.05 + 0.2 + Distributions.Normal(0.29, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -15492,7 +15528,7 @@ return 0.05;</DataShapingExpression>
 		<DataShaping1>0</DataShaping1>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
-		<DataShapingExpression>return 0.05 + 0.20 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+		<DataShapingExpression>return 0.05 + 0.20 + Distributions.Normal(0.29, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -16521,7 +16557,7 @@ return 0.05;</DataShapingExpression>
 		<DataShaping2>0</DataShaping2>
 		<DataShaping3>0</DataShaping3>
 		<DataShapingExpression>// production plus prep plus approximated movement
-return 0.05 + 0.2 + Distributions.Normal(0.2349668, 0.08183299);</DataShapingExpression>
+return 0.05 + 0.2 + Distributions.Normal(0.29, 0.08183299);</DataShapingExpression>
 		<StartTime>0</StartTime>
 		<StopTime>0</StopTime>
 		<TaskTime>0</TaskTime>
@@ -16724,6 +16760,116 @@ if(target1Hit) {
 		<SizeType>1</SizeType>
 		<LaunchEffect />
 	</networktask>
+	<networktask>
+		<Id>458</Id>
+		<Function_FK>15</Function_FK>
+		<Name>Log Addition</Name>
+		<Type>1</Type>
+		<MSSharpID>16</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>// TODO log to file?
+Model.PrintOutput("Addition Complete " + Clock);</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>83.265617370605469</Width>
+		<XPos>631</XPos>
+		<YPos>46</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
+	<networktask>
+		<Id>459</Id>
+		<Function_FK>15</Function_FK>
+		<Name>Log Target</Name>
+		<Type>1</Type>
+		<MSSharpID>17</MSSharpID>
+		<TimeRequirement>0</TimeRequirement>
+		<AccuracyRequirement>0</AccuracyRequirement>
+		<AccuracyMeasure_FK>1</AccuracyMeasure_FK>
+		<Criterion>0</Criterion>
+		<SuccessProbability>100</SuccessProbability>
+		<DataShapingInputType>0</DataShapingInputType>
+		<Distribution_FK>14</Distribution_FK>
+		<DataShaping1>0</DataShaping1>
+		<DataShaping2>0</DataShaping2>
+		<DataShaping3>0</DataShaping3>
+		<DataShapingExpression>return 0.0;</DataShapingExpression>
+		<StartTime>0</StartTime>
+		<StopTime>0</StopTime>
+		<TaskTime>0</TaskTime>
+		<AccuracyInputType>0</AccuracyInputType>
+		<AccuracyDistribution_FK>14</AccuracyDistribution_FK>
+		<AccuracyDS1>0</AccuracyDS1>
+		<AccuracyDS2>0</AccuracyDS2>
+		<AccuracyDS3>0</AccuracyDS3>
+		<AccuracyExpression>return true;</AccuracyExpression>
+		<Priority>3</Priority>
+		<InterruptStrategy>2</InterruptStrategy>
+		<ReleaseCond>return true;</ReleaseCond>
+		<BeginningEffect>// TODO log to file?
+if(target2Hit) {
+	Model.PrintOutput("Targeting Complete " + Clock);
+}</BeginningEffect>
+		<EndEffect />
+		<ProbDegradeTask>0</ProbDegradeTask>
+		<DegradeTime>0</DegradeTime>
+		<DegradeAcc>0</DegradeAcc>
+		<ProbChangeTask>0</ProbChangeTask>
+		<ProbFailMission>0</ProbFailMission>
+		<ProbNoEffect>100</ProbNoEffect>
+		<ProbChangeOperator>0</ProbChangeOperator>
+		<ProbRepeatTask>0</ProbRepeatTask>
+		<BranchingDecisionType>0</BranchingDecisionType>
+		<CalculatedAccuracy>0</CalculatedAccuracy>
+		<CalculatedTime>0</CalculatedTime>
+		<CalculatedProbability>0</CalculatedProbability>
+		<Height>21.091144561767578</Height>
+		<Width>83.265617370605469</Width>
+		<XPos>653</XPos>
+		<YPos>295</YPos>
+		<BackgroundColor>NamedColor:Plum</BackgroundColor>
+		<TextColor>NamedColor:Black</TextColor>
+		<Shape>8</Shape>
+		<SizeType>1</SizeType>
+		<LaunchEffect />
+	</networktask>
 	<nodelink>
 		<Id>0</Id>
 		<SourceFunction_FK>8</SourceFunction_FK>
@@ -16842,15 +16988,6 @@ if(target1Hit) {
 		<PathPointsOut />
 	</nodelink>
 	<nodelink>
-		<Id>79</Id>
-		<SourceFunction_FK>24</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
 		<Id>80</Id>
 		<SourceFunction_FK>26</SourceFunction_FK>
 		<TargetTask_FK>354</TargetTask_FK>
@@ -16878,15 +17015,6 @@ if(target1Hit) {
 		<PathPointsOut />
 	</nodelink>
 	<nodelink>
-		<Id>85</Id>
-		<SourceFunction_FK>27</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<XPosition>1024</XPosition>
-		<YPosition>139</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
 		<Id>94</Id>
 		<SourceFunction_FK>33</SourceFunction_FK>
 		<TargetTask_FK>387</TargetTask_FK>
@@ -16908,15 +17036,6 @@ if(target1Hit) {
 		<Id>98</Id>
 		<SourceFunction_FK>35</SourceFunction_FK>
 		<TargetTask_FK>253</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
-		<Id>99</Id>
-		<SourceFunction_FK>35</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
 		<XPosition>10</XPosition>
 		<YPosition>10</YPosition>
 		<PathPointsIn />
@@ -16950,15 +17069,6 @@ if(target1Hit) {
 		<PathPointsOut />
 	</nodelink>
 	<nodelink>
-		<Id>110</Id>
-		<SourceFunction_FK>41</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<XPosition>10</XPosition>
-		<YPosition>10</YPosition>
-		<PathPointsIn />
-		<PathPointsOut />
-	</nodelink>
-	<nodelink>
 		<Id>111</Id>
 		<SourceFunction_FK>43</SourceFunction_FK>
 		<TargetTask_FK>439</TargetTask_FK>
@@ -16986,9 +17096,45 @@ if(target1Hit) {
 		<PathPointsOut />
 	</nodelink>
 	<nodelink>
-		<Id>116</Id>
+		<Id>147</Id>
+		<SourceFunction_FK>24</SourceFunction_FK>
+		<TargetTask_FK>458</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>148</Id>
 		<SourceFunction_FK>44</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>149</Id>
+		<SourceFunction_FK>41</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>150</Id>
+		<SourceFunction_FK>35</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<XPosition>10</XPosition>
+		<YPosition>10</YPosition>
+		<PathPointsIn />
+		<PathPointsOut />
+	</nodelink>
+	<nodelink>
+		<Id>151</Id>
+		<SourceFunction_FK>27</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
 		<XPosition>10</XPosition>
 		<YPosition>10</YPosition>
 		<PathPointsIn />
@@ -17002,10 +17148,10 @@ if(target1Hit) {
 		<IsDefaultOperator>true</IsDefaultOperator>
 		<IsCrewMaintainer>false</IsCrewMaintainer>
 		<ELevel>0</ELevel>
-		<DefaultStrategy>0</DefaultStrategy>
+		<DefaultStrategy>2</DefaultStrategy>
 		<TaskShedCriterionD>1</TaskShedCriterionD>
 		<TaskShedCriterionE>0</TaskShedCriterionE>
-		<Threshold>60</Threshold>
+		<Threshold>8</Threshold>
 		<PenaltyATime>0</PenaltyATime>
 		<PenaltyAAcc>0</PenaltyAAcc>
 		<PenaltyETime>0</PenaltyETime>
@@ -18540,16 +18686,6 @@ return 1;</TacticalExpr>
 		<PathPoints />
 	</path>
 	<path>
-		<Id>482</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceFunction_FK>24</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
 		<Id>483</Id>
 		<Mission_FK>7</Mission_FK>
 		<SourceTask_FK>354</SourceTask_FK>
@@ -18674,16 +18810,6 @@ return 1;</TacticalExpr>
 		<Mission_FK>5</Mission_FK>
 		<SourceTask_FK>243</SourceTask_FK>
 		<TargetFunction_FK>27</TargetFunction_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>505</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceFunction_FK>27</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
@@ -18854,16 +18980,6 @@ return 1;</TacticalExpr>
 		<Mission_FK>5</Mission_FK>
 		<SourceTask_FK>253</SourceTask_FK>
 		<TargetFunction_FK>35</TargetFunction_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>550</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceFunction_FK>35</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
@@ -19062,16 +19178,6 @@ return 1;</TacticalExpr>
 		<Mission_FK>5</Mission_FK>
 		<SourceTask_FK>260</SourceTask_FK>
 		<TargetFunction_FK>41</TargetFunction_FK>
-		<Probability>0</Probability>
-		<TacticalExpr>return true;</TacticalExpr>
-		<MultipleExpr>return true;</MultipleExpr>
-		<PathPoints />
-	</path>
-	<path>
-		<Id>579</Id>
-		<Mission_FK>5</Mission_FK>
-		<SourceFunction_FK>41</SourceFunction_FK>
-		<TargetTask_FK>209</TargetTask_FK>
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
 		<MultipleExpr>return true;</MultipleExpr>
@@ -19316,9 +19422,69 @@ return 1;</TacticalExpr>
 		<PathPoints />
 	</path>
 	<path>
-		<Id>602</Id>
+		<Id>603</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceFunction_FK>24</SourceFunction_FK>
+		<TargetTask_FK>458</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>604</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>458</SourceTask_FK>
+		<TargetTask_FK>209</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>605</Id>
 		<Mission_FK>5</Mission_FK>
 		<SourceFunction_FK>44</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>606</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceFunction_FK>41</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>607</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceFunction_FK>35</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>608</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceFunction_FK>27</SourceFunction_FK>
+		<TargetTask_FK>459</TargetTask_FK>
+		<Probability>0</Probability>
+		<TacticalExpr>return true;</TacticalExpr>
+		<MultipleExpr>return true;</MultipleExpr>
+		<PathPoints />
+	</path>
+	<path>
+		<Id>609</Id>
+		<Mission_FK>5</Mission_FK>
+		<SourceTask_FK>459</SourceTask_FK>
 		<TargetTask_FK>209</TargetTask_FK>
 		<Probability>0</Probability>
 		<TacticalExpr>return true;</TacticalExpr>
@@ -20668,10 +20834,10 @@ return 1;</TacticalExpr>
 	<settingsop>
 		<Id>5</Id>
 		<Mission_FK>5</Mission_FK>
-		<NumRuns>1000</NumRuns>
+		<NumRuns>480</NumRuns>
 		<RandomSeed>1</RandomSeed>
 		<UsePerfectAccuracy>false</UsePerfectAccuracy>
-		<UseWorkloadStrategies>false</UseWorkloadStrategies>
+		<UseWorkloadStrategies>true</UseWorkloadStrategies>
 		<EnableBuiltInAnimation>false</EnableBuiltInAnimation>
 		<EnableCustomAnimation>false</EnableCustomAnimation>
 		<UsePTSAdjustments>false</UsePTSAdjustments>
@@ -22647,6 +22813,18 @@ return 1;</TacticalExpr>
 		<NetworkTask_FK>457</NetworkTask_FK>
 		<Interface_FK>5</Interface_FK>
 	</taskinterface>
+	<taskinterface>
+		<Id>458</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>458</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
+	<taskinterface>
+		<Id>459</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>459</NetworkTask_FK>
+		<Interface_FK>5</Interface_FK>
+	</taskinterface>
 	<taskoperator>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -23949,6 +24127,20 @@ return 1;</TacticalExpr>
 		<Operator_FK>0</Operator_FK>
 		<IsPrimary>true</IsPrimary>
 	</taskoperator>
+	<taskoperator>
+		<Id>458</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>458</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
+	<taskoperator>
+		<Id>459</Id>
+		<Mission_FK>5</Mission_FK>
+		<NetworkTask_FK>459</NetworkTask_FK>
+		<Operator_FK>0</Operator_FK>
+		<IsPrimary>true</IsPrimary>
+	</taskoperator>
 	<usermacro>
 		<Id>0</Id>
 		<Mission_FK>0</Mission_FK>
@@ -24049,7 +24241,7 @@ return 1;</TacticalExpr>
 		<Id>8</Id>
 		<Mission_FK>5</Mission_FK>
 		<Name>AdditionRT</Name>
-		<Code>return op1 + op2 &gt; 9 ? RT(0.1) : RT(0.15);</Code>
+		<Code>return op1 + op2 &gt; 9 ? RT(0.04) : RT(0.08);</Code>
 		<ReturnType>3</ReturnType>
 		<ArbitraryType />
 		<Description>Get a random retrieval time for an addition chunk</Description>
@@ -24061,7 +24253,7 @@ return 1;</TacticalExpr>
 		<Id>9</Id>
 		<Mission_FK>5</Mission_FK>
 		<Name>NumberRT</Name>
-		<Code>return RT(number &lt;= 12 ? 0.5 : 0.015);</Code>
+		<Code>return RT(number &lt;= 12 ? 0.2 : 0.0004);</Code>
 		<ReturnType>3</ReturnType>
 		<ArbitraryType />
 		<Description>Get a random retrieval time for a number chunk</Description>
@@ -25647,16 +25839,4 @@ return 1;</TacticalExpr>
 		<ArrayDimensions />
 		<ArbitraryType />
 	</variable>
-	<variable>
-		<Id>120</Id>
-		<Mission_FK>5</Mission_FK>
-		<Name>EnableScope</Name>
-		<Type>4</Type>
-		<IsCultural>false</IsCultural>
-		<Description />
-		<InitialValue>0</InitialValue>
-		<IsArray>false</IsArray>
-		<ArrayDimensions />
-		<ArbitraryType />
-	</variable>
-</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+</IMPRINTProDB>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
